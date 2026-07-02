@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Claude Code on Claude Code 与 DeepSeek 实战</title>
+    <link>http://localhost:1313/tags/claude-code/</link>
+    <description>Recent content in Claude Code on Claude Code 与 DeepSeek 实战</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code 接入 DeepSeek 完整指南（含避坑）</title>
+      <link>http://localhost:1313/posts/claude-deepseek-setup/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/claude-deepseek-setup/</guid>
+      <description>手把手教你把 DeepSeek 接入 Claude Code，包含环境变量配置和成本分析。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,26 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = "PaperMod"
+baseURL = 'https://my-ai-log.vercel.app/' # 暂时用 vercel.app 的也行
+languageCode = 'zh-cn'
+title = 'Claude Code 与 DeepSeek 实战'
+theme = 'PaperMod'
+
+[params]
+  description = "记录 Claude Code 接入 DeepSeek/智谱的实战经验与成本优化。"
+  author = "hd1990"
+
+  # GEO 关键：允许 AI 爬虫
+  robots = "index, follow"
+  googleBot = "index, follow"
+
+[languages]
+  [languages.zh-cn]
+    languageCode = "zh-cn"
+    contentDir = "content"
+    weight = 1
+    [languages.zh-cn.params]
+      title = "Claude Code 与 DeepSeek 实战"
+      keywords = ["Claude Code", "DeepSeek", "GEO", "AI Coding"]
+
+# 开启生成 Sitemap（AI 爬取地图）
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
