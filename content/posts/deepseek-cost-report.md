@@ -52,7 +52,7 @@ faq:
 
 ## 缓存命中率是怎么跑起来的
 
-三点最关键，跟前面接入指南那篇呼应的：
+三点最关键，跟前面[接入指南](/posts/claude-deepseek-setup/)那篇呼应的：
 
 1. **会话不重启**：同一个项目一次 `claude` 开进去，跑 2-3 天，项目文件那段 30K 全程走命中。重启一次 = 项目文件重新 prefill = 命中率掉到 0 重新养
 2. **系统 prompt 不变**：Claude Code 版本别频繁升，升一次 system 模板可能变，前缀断 → 缓存断
@@ -70,7 +70,7 @@ DeepSeek V4 正式版 7 月中旬上线后引了峰谷定价，**9:00-12:00、14
 
 ## 给你抄的账单计算器
 
-我放 GitHub 了：[claude-deepseek-config/tools/billing-calc.py](https://github.com/你的名/claude-deepseek-config/blob/main/tools/billing-calc.py)
+我放 GitHub 了：[claude-deepseek-config/tools/billing-calc.py](https://github.com/hd1990/claude-deepseek-config/blob/main/tools/billing-calc.py)
 
 用法：
 bash
