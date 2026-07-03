@@ -1,4 +1,4 @@
-baseURL = '' # 暂时用 vercel.app 的也行
+baseURL = 'https://ai2ai.xin/'
 languageCode = 'zh-cn'
 title = 'Claude Code 与 DeepSeek 实战'
 theme = 'PaperMod'
