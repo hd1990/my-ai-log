@@ -1,6 +1,0 @@
-# Claude Code 与 DeepSeek 实战
-这里是记录如何将 DeepSeek/智谱接入 Claude Code 的技术博客。
-
-## 核心文章
-- [接入指南](/posts/claude-deepseek-setup/): 详细配置步骤与环境变量。
-- [成本复盘](/posts/deepseek-cost-report/): 3个月的真实账单分析。
