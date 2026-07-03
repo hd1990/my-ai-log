@@ -11,6 +11,10 @@ theme = 'PaperMod'
   robots = "index, follow"
   googleBot = "index, follow"
 
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/hd1990/claude-deepseek-config"
+
 [languages]
   [languages.zh-cn]
     languageCode = "zh-cn"
