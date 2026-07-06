@@ -1,6 +1,12 @@
 # Claude Code 与 DeepSeek 实战
-这里是记录如何将 DeepSeek/智谱接入 Claude Code 的技术博客。
+Claude Code 接第三方模型（DeepSeek/智谱）的接入指南、成本复盘、进阶优化与 GEO 实践。
 
-## 核心文章
-- [接入指南](/posts/claude-deepseek-setup/): 详细配置步骤与环境变量。
-- [成本复盘](/posts/deepseek-cost-report/): 3个月的真实账单分析。
+## 指南
+- [Claude Code 接 DeepSeek 完整指南](/posts/claude-deepseek-setup/) ：环境变量配置、避坑、成本对比
+- [Claude Code + DeepSeek 进阶：多终端缓存共享、自动切模型与成本监控](/posts/claude-deepseek-advanced/) ：LiteLLM 代理、高峰自动切换、fallback 机制
+
+## 复盘
+- [DeepSeek-V4-Pro 3 个月账单复盘](/posts/deepseek-cost-report/) ：缓存命中率、峰谷定价、跟 Opus 对比
+
+## 工具
+- [claude-deepseek-config](https://github.com/hd1990/claude-deepseek-config) ：配置模板 + 账单计算器
