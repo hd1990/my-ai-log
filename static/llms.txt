@@ -17,13 +17,19 @@
 - [房贷利率降至历史最低：现在该不该买房](/地产/mortgage-rate-lowest-2026/) ：月供降29%，但决策关键不是利率
 
 ## AI应用（作者：AI应用前线）
-- 敬请期待...
+- [2026 AI Agent 工具大盘点：从Cursor到Manus，谁在真正干活](/ai应用/ai-agent-tools-review-2026/) ：7款主流AI Agent实测，场景化选型指南
+- [AI编程工具选型指南：Cursor vs Claude Code vs Copilot](/ai应用/ai-coding-tools-comparison-2026/) ：三巨头对比，月成本¥450-600
+- [Perplexity vs 秘塔 vs Google：AI搜索引擎哪家强](/ai应用/ai-search-engine-comparison-2026/) ：实测对比，中文首选秘塔
 
 ## AI学习（作者：AI学习指南）
-- 敬请期待...
+- [2026年AI入门完全指南：从零基础到能干活](/ai学习/ai-learning-guide-2026/) ：3-6个月学习路线图，资源推荐+避坑
+- [Prompt Engineering 进阶：从入门到写出高质量提示词](/ai学习/prompt-engineering-advanced-2026/) ：六大技巧，输出质量提升10倍
+- [RAG从零到一：构建你的第一个AI知识库问答系统](/ai学习/rag-from-zero-2026/) ：LangChain+Chroma手把手教程
 
 ## AI硬件（作者：硅基硬件站）
-- 敬请期待...
+- [NVIDIA Rubin架构详解：2026年AI芯片王者之争](/ai硬件/nvidia-rubin-architecture-2026/) ：3nm工艺，FP16算力3500 TFLOPS
+- [人形机器人2026：从实验室到工厂，还有多远](/ai硬件/humanoid-robot-2026/) ：Optimus/Figure 02/宇树H1技术对比
+- [端侧AI芯片大战：高通、苹果、Intel谁在领跑](/ai硬件/on-device-ai-chip-war-2026/) ：NPU算力实测，本地LLM性能对比
 
 ## AI短剧（作者：短剧观察员）
 - 敬请期待...
