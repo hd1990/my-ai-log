@@ -28,3 +28,7 @@ theme = 'PaperMod'
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
+
+[taxonomies]
+  category = "categories"
+  author = "authors"

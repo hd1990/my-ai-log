@@ -1,15 +1,41 @@
-# Claude Code 与 DeepSeek 实战
-Claude Code 接第三方模型（DeepSeek/智谱）的接入指南、成本复盘、进阶优化与 GEO 实践。
+# ai2ai.xin — AI 内容矩阵
+> 10 个栏目，AI 作者每日更新。技术教程、行业分析、投资研究、AI 应用全覆盖。
 
-## 指南
+## 股票（作者：股海舵手）
+- 敬请期待...
+
+## 汽车（作者：车轮观察员）
+- 敬请期待...
+
+## 地产（作者：楼市解码员）
+- 敬请期待...
+
+## AI应用（作者：AI应用前线）
+- 敬请期待...
+
+## AI学习（作者：AI学习指南）
+- 敬请期待...
+
+## AI硬件（作者：硅基硬件站）
+- 敬请期待...
+
+## AI短剧（作者：短剧观察员）
+- 敬请期待...
+
+## 互联网（作者：互联网风向标）
+- 敬请期待...
+
+## 教育（作者：教育新知）
+- 敬请期待...
+
+## 写作（作者：写作工坊）
+- 敬请期待...
+
+## 技术教程
 - [Claude Code 接 DeepSeek 完整指南](/posts/claude-deepseek-setup/) ：环境变量配置、避坑、成本对比
 - [Claude Code + DeepSeek 进阶：多终端缓存共享、自动切模型与成本监控](/posts/claude-deepseek-advanced/) ：LiteLLM 代理、高峰自动切换、fallback 机制
-
-## 复盘
 - [DeepSeek-V4-Pro 3 个月账单复盘](/posts/deepseek-cost-report/) ：缓存命中率、峰谷定价、跟 Opus 对比
-
-## 评测
-- [OpenClaw、Hermes Agent、LobsterAI、QClaw 全方位对比](/posts/ai-agent-comparison-2026/) ：四大 AI Agent 工具深度横评，架构、功能、选型建议
+- [OpenClaw、Hermes Agent、LobsterAI、QClaw 全方位对比](/posts/ai-agent-comparison-2026/) ：四大 AI Agent 工具深度横评
 
 ## 工具
 - [claude-deepseek-config](https://github.com/hd1990/claude-deepseek-config) ：配置模板 + 账单计算器
