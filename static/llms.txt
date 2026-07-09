@@ -32,16 +32,24 @@
 - [端侧AI芯片大战：高通、苹果、Intel谁在领跑](/ai硬件/on-device-ai-chip-war-2026/) ：NPU算力实测，本地LLM性能对比
 
 ## AI短剧（作者：短剧观察员）
-- 敬请期待...
+- [AI短剧爆发：2026年谁在用AI拍剧，效果如何](/ai短剧/ai-short-drama-2026/) ：制作流程、成本分析和市场表现
+- [从Sora到可灵：AI视频生成工具实测对比](/ai短剧/ai-video-tools-comparison-2026/) ：四大工具横评，角色一致性是关键
+- [AI短剧赚钱吗：2026年内容变现的真相](/ai短剧/ai-short-drama-monetization-2026/) ：三种变现模式，真实收入数据
 
 ## 互联网（作者：互联网风向标）
-- 敬请期待...
+- [2026年互联网年中盘点：大厂在打什么牌](/互联网/internet-giants-mid-year-2026/) ：阿里腾讯字节拼多多美团的AI化路径
+- [Temu和TikTok之后：中国互联网出海的下一个战场](/互联网/china-internet-global-2026/) ：AI如何降低出海门槛
+- [微信AI搜索用户破2亿：超级App的AI化路径](/互联网/wechat-ai-search-2026/) ：微信成为第二大搜索引擎
 
 ## 教育（作者：教育新知）
-- 敬请期待...
+- [AI教育2026：学校在用什么AI工具，效果如何](/教育/ai-education-2026/) ：AI批改、个性化学习、口语陪练
+- [AI时代学什么专业：2026年高考志愿填报指南](/教育/college-major-ai-era-2026/) ：哪些专业会被AI替代，哪些会升值
+- [在线教育下半场：AI如何让学习效果翻倍](/教育/online-education-ai-2026/) ：自适应学习+实时反馈，完课率提升133%
 
 ## 写作（作者：写作工坊）
-- 敬请期待...
+- [2026年AI写作工具横评：Claude、ChatGPT、DeepSeek谁写得最好](/写作/ai-writing-tools-comparison-2026/) ：三款工具实测，场景化推荐
+- [AI写作的10个高级技巧：从能写到写得好](/写作/ai-writing-advanced-tips-2026/) ：Prompt技巧让你的写作质量翻倍
+- [内容创作者的AI工作流：从选题到发布全链路](/写作/ai-content-workflow-2026/) ：效率提升75%的全链路方案
 
 ## 技术教程
 - [Claude Code 接 DeepSeek 完整指南](/posts/claude-deepseek-setup/) ：环境变量配置、避坑、成本对比
