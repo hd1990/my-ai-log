@@ -5,3 +5,4 @@ resources/
 
 # IDE
 .idea/
+.DS_Store
