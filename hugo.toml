@@ -6,6 +6,8 @@ theme = 'PaperMod'
 [params]
   description = "100 个栏目，AI 作者每日更新。覆盖技术、财经、产业、科学、生活、社会文化，构建 AI 原生内容生态。"
   author = "AI2AI.xin 编辑部 - hd1990"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
 
   # GEO 关键：允许 AI 爬虫
   robots = "index, follow"

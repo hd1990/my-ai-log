@@ -1,0 +1,80 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ site.Title }}</h1>
+  {{- with site.Params.description }}
+  <div class="post-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+<div class="post-content md-content">
+  <p style="text-align:center;color:var(--secondary);">
+    📂 <strong>{{ len .Site.Sections }}</strong> 个栏目 · <strong>{{ len .Site.RegularPages }}</strong> 篇文章
+  </p>
+</div>
+
+{{- $sections := slice }}
+{{- range .Site.Sections }}
+  {{- if ne .RelPermalink "/posts/" }}
+    {{- $displayName := .Title }}
+    {{- $firstPage := index .Pages 0 }}
+    {{- if $firstPage }}
+      {{- with index $firstPage.Params.categories 0 }}
+        {{- $displayName = . }}
+      {{- end }}
+    {{- end }}
+    {{- $sections = $sections | append (dict "title" $displayName "link" .RelPermalink "count" (len .Pages)) }}
+  {{- end }}
+{{- end }}
+
+<div class="column-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px 16px;">
+{{- range sort $sections "title" }}
+  <a href="{{ .link }}" style="display:flex;justify-content:space-between;align-items:baseline;padding:4px 8px;border-radius:6px;text-decoration:none;transition:background 0.15s;">
+    <span>{{ .title }}</span>
+    <span style="color:var(--secondary);font-size:0.85em;">{{ .count }}</span>
+  </a>
+{{- end }}
+</div>
+
+<hr style="margin:32px 0 16px;">
+
+<h2>最新文章</h2>
+
+{{- $pages := where site.RegularPages "Params.hiddenInHomeList" "!=" "true" }}
+{{- $paginator := .Paginate $pages }}
+
+{{- range $paginator.Pages }}
+<article class="post-entry">
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+  </header>
+  {{- if (ne (.Param "hideSummary") true) }}
+  <div class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  </div>
+  {{- end }}
+  {{- if not (.Param "hideMeta") }}
+  <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer>
+  {{- end }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }}
+
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+  <nav class="pagination">
+    {{- if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">«&nbsp;上一页</a>
+    {{- end }}
+    {{- if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL | absURL }}">下一页&nbsp;»</a>
+    {{- end }}
+  </nav>
+</footer>
+{{- end }}
+
+{{- end }}{{/* end main */}}
