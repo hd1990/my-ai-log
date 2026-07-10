@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["游戏科技"]
 tags: ["光线追踪", "RTX 50", "NVIDIA", "游戏画质", "2026", "路径追踪", "DLSS 4"]
-author: "游戏技术观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年NVIDIA RTX 50系列和AMD RDNA 4将光线追踪性能提升至新高度，路径追踪从「技术演示」变为「游戏标配」。本文深度解析光线追踪技术的硬件进化、算法突破和游戏实装，揭示2026年游戏画质的革命。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["实时分析", "流处理", "Kafka", "Flink", "批流一体", "数据分析"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年实时分析已经从批处理的补充演变为核心能力，Kafka、Flink、RisingWave等技术栈的成熟使得秒级延迟的数据分析成为现实，批流一体架构正在统一数据处理范式。"
 ---
 

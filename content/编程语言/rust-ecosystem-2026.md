@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["Rust", "系统编程", "WebAssembly", "Wasm", "Tauri", "Tokio", "后端", "编程语言"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Rust在2026年完成了从系统编程语言到通用应用开发语言的进化。Rust 2026 Edition、Tokio的全面成熟和Tauri 3.0的发布，让Rust在Web后端、桌面应用和嵌入式领域全面开花。本文深度分析Rust生态在2026年的全面爆发。"
 ---
 

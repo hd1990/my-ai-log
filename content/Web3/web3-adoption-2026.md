@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["Web3"]
 tags: ["Web3", "用户增长", "大规模采用", "Mass Adoption", "账户抽象", "L2", "移动端", "用户体验"]
-author: "Web3观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Web3用户正在从'加密原生'扩展到'主流用户'。全球Web3用户突破5亿，账户抽象、移动端优化、法币入金和AI Agent是推动Web3从1亿走向10亿用户的四大引擎。"
 ---
 

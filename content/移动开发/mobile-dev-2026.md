@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["Flutter", "React Native", "Kotlin Multiplatform", "跨平台", "移动开发", "iOS", "Android"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年跨平台移动开发框架格局已定。Flutter、React Native和Kotlin Multiplatform三足鼎立，本文从性能、生态、招聘市场三个维度深度分析谁在领跑。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["IMAX", "巨幕", "杜比影院", "高端观影", "影院技术", "放映技术"]
 categories: ["电影"]
-author: "电影观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年高端放映技术正重塑观影体验，IMAX全球票房突破15亿美元，杜比影院、CINITY和ScreenX等技术竞争白热化。本文分析高端观影市场的技术演进和商业格局。"
 ---
 

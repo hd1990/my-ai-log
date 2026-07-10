@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["元宇宙"]
 tags: ["元宇宙", "Metaverse", "空间计算", "Apple Vision Pro", "工业元宇宙", "Meta Quest"]
-author: "元宇宙观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年元宇宙已从2021年的概念炒作回归理性，但技术和应用正在扎实落地。本文分析元宇宙在硬件、内容、企业应用三个层面的真实进展，揭示炒作退潮后留下的核心价值。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["汽车"]
 tags: ["自动驾驶", "L4", "Robotaxi", "百度Apollo", "小马智行"]
-author: "车轮观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，中国L4级自动驾驶商业化运营城市已扩展至12个。本文从运营数据、技术路线和成本变化三个角度，分析Robotaxi的现状和未来。"
 ---
 

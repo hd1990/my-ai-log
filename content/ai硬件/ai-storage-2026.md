@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["AI存储", "高性能存储", "向量数据库", "HBM", "存储架构"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI大模型训练和推理对存储系统提出了前所未有的要求。从HBM到NVMe SSD，从分布式文件系统到向量数据库，AI存储技术栈正在经历全面升级。"
 ---
 

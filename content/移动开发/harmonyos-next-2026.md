@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["鸿蒙", "HarmonyOS", "华为", "鸿蒙Next", "ArkUI", "ArkTS", "原生鸿蒙"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年华为鸿蒙Next（HarmonyOS 5.0）彻底脱离Android，成为全球第三大移动操作系统。本文从技术架构、开发者生态、市场数据和商业化成果四个维度，全面分析鸿蒙Next在2026年的爆发式增长。"
 ---
 

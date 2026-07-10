@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开源安全", "供应链安全", "SBOM", "OpenSSF", "漏洞管理", "开源合规", "安全审计", "软件供应链"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年开源安全从Log4j的阴影中走出来，形成了完整的供应链安全治理体系。从OpenSSF到Sigstore，从SBOM到漏洞赏金，深度解析开源安全的最新实践、工具生态和治理框架。"
 slug: "open-source-security-2026"
 ---

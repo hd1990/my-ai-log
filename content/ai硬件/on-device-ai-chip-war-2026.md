@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["端侧AI", "高通", "苹果", "Intel", "NPU", "AI PC"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI PC和AI手机的概念在2026年全面落地。高通Snapdragon X Elite、苹果M4、Intel Lunar Lake三大端侧AI芯片的实测对比。"
 ---
 

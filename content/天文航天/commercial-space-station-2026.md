@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["天文航天"]
 tags: ["商业空间站", "国际空间站", "ISS退役", "中国空间站", "Axiom Space", "轨道礁", "太空经济"]
-author: "天文爱好者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，国际空间站（ISS）退役倒计时进入最后阶段。NASA计划2030年退役ISS，Axiom Space、蓝色起源、Sierra Space等商业公司争相建设商业空间站。中国空间站成为唯一的国家级空间站。太空近地轨道的格局正在重塑。"
 ---
 

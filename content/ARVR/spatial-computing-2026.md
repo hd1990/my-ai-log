@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["空间计算", "Apple Vision Pro", "Meta Quest", "XR生态", "三星XR", "空间计算平台"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Apple Vision Pro发布两年后，空间计算行业在2026年呈现出怎样的竞争格局？苹果、Meta、三星三大生态的博弈，以及消费市场对空间计算的接受度，共同决定了这个行业的未来走向。"
 ---
 

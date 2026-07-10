@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["法律"]
 tags: ["AI监管", "欧盟AI法案", "AI立法", "人工智能", "合规", "算法治理"]
-author: "法律观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球AI监管格局加速形成，欧盟AI法案全面实施，中国AI法草案进入立法程序，美国APRA持续推进。本文从三大司法管辖区入手，分析全球AI立法的核心框架与趋势。"
 ---
 

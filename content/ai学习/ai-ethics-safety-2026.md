@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["AI伦理", "AI安全", "负责任AI", "对齐", "AI治理"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI伦理与安全已从学术讨论变为行业刚需。欧盟AI法案全面实施，中国AI监管框架落地，全球AI治理进入实质阶段。本文系统梳理AI伦理与安全的最新实践。"
 ---
 

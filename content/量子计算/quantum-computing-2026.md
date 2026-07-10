@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["量子计算"]
 tags: ["量子计算", "量子优越性", "IBM", "Google", "量子芯片"]
-author: "量子观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年量子计算正在从实验室走向产业化。IBM、Google、中国量子计算团队的最新进展，以及金融、医药、材料领域的应用突破。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["时尚"]
 tags: ["运动时尚", "lululemon", "On昂跑", "Athleisure", "2026趋势", "运动品牌", "瑜伽裤"]
-author: "时尚观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年运动时尚市场规模突破5000亿美元。lululemon面临增长天花板，On昂跑以跑步科技异军突起，中国品牌Lululemon们也在崛起。本文深度解析运动时尚赛道的2026年竞争格局。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["数据科学", "Jupyter", "AI Notebook", "Python", "数据分析", "工具链"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年数据科学工具链正在经历AI驱动的范式转变，Jupyter Notebook不再是唯一选择，AI原生Notebook、低代码平台和智能编码助手正在重塑数据分析工作流。"
 ---
 

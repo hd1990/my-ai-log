@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["创业"]
 tags: ["AI创业", "大模型", "AI应用", "创业", "AI Agent", "AI Native", "LangChain", "LLM"]
-author: "创业观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI创业进入第二波——从'训练大模型'到'AI原生应用'。本文分析AI创业的新范式、新机会和新风险。"
 ---
 

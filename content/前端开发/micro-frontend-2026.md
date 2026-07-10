@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["前端开发"]
 tags: ["微前端", "Module Federation", "Webpack", "Rspack", "qiankun", "Micro-Frontend", "前端架构"]
-author: "前端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年微前端架构进入2.0时代。Webpack Module Federation 2.0和Rspack的崛起带来了运行时共享、类型安全和原生联邦的新范式。本文从架构演进、技术选型和实际案例三个维度，深度分析微前端在2026年的最新实践。"
 ---
 

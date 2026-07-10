@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["教育"]
 tags: ["AI教育", "大模型", "智慧课堂", "AI教师", "个性化学习", "教育科技", "Khanmigo", "课堂"]
-author: "教育新知"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI大模型进入超过5000所学校，AI助教、AI个性化学习路径、AI作文批改正在改变课堂。本文分析AI在课堂中的实际应用效果、挑战和未来趋势。"
 ---
 

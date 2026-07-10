@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["AI服务器", "DGX", "自研服务器", "GPU服务器", "算力基础设施"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI服务器市场规模突破1200亿美元，从NVIDIA DGX到云厂商自研，从通用服务器到AI一体机，AI服务器格局正在重塑。本文全面解析AI服务器的技术演进和产业格局。"
 ---
 

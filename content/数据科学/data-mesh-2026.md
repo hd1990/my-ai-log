@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["Data Mesh", "数据架构", "去中心化", "数据网格", "数据治理", "数据平台", "2026趋势"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Data Mesh在2026年从概念炒作进入大规模实践阶段，全球超过35%的大型企业正在或已经实施Data Mesh架构，去中心化数据所有权与联邦治理成为数据平台现代化的核心趋势。"
 ---
 

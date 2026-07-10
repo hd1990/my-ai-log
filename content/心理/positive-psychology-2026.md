@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["心理"]
 tags: ["积极心理学", "幸福", "PERMA", "感恩", "韧性", "心流", "幸福感", "Martin Seligman"]
-author: "心理咨询师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年积极心理学从学术理论走向主流实践。全球幸福指数报告显示，决定幸福的核心因素不是金钱而是人际关系。本文分析积极心理学的科学发现和2026年的实践应用。"
 ---
 

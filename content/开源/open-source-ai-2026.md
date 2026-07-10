@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开源AI", "Llama", "Mistral", "DeepSeek", "大模型", "开源模型", "Meta", "AI开源生态"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年开源AI模型生态蓬勃发展，Meta的Llama 4、Mistral的旗舰模型和DeepSeek的开源模型正在与闭源GPT-5展开竞争。深度解析开源AI模型的技术进展、商业模式和生态构建。"
 slug: "open-source-ai-2026"
 ---

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["计算机视觉"]
 tags: ["医学影像AI", "CT", "MRI", "病理AI", "AI辅助诊断", "医疗AI", "FDA", "NMPA"]
-author: "CV工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，医学影像AI从'实验室的奇迹'走向'临床的日常'。全球已有超过200个AI医疗器械获得监管批准（FDA/NMPA/CE），AI辅助诊断在肺结节、眼底病变、乳腺癌、脑卒中等场景中大规模应用。本文分析2026年医学影像AI的技术进展、监管审批、临床落地和产业格局。"
 ---
 

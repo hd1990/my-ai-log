@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["Vertical SaaS", "垂直SaaS", "行业SaaS", "SaaS", "垂直行业", "B2B软件", "SaaS趋势"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Vertical SaaS正在从'小众市场'变成'主流赛道'。医院SaaS、律所SaaS、餐厅SaaS、建筑SaaS等行业垂直SaaS正在快速增长，它们的估值和增长指标全面超越Horizontal SaaS。"
 ---
 

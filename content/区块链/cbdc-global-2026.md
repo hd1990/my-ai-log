@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["CBDC", "数字人民币", "数字欧元", "央行数字货币", "跨境支付", "mBridge", "数字货币"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球130+国家正在探索央行数字货币(CBDC)。数字人民币交易额突破1万亿元，数字欧元进入试点阶段，mBridge跨境支付平台正式运营。深度解析全球CBDC的最新进展、技术路线和地缘政治博弈。"
 slug: "cbdc-global-2026"
 ---

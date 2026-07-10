@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["数据工程", "数据管道", "数据治理", "DataOps", "数据质量", "ELT"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年数据工程正从ETL向ELT、从批处理向实时流、从集中式向数据网格演进，数据治理框架和DataOps实践成为企业数据基础设施的核心竞争力。"
 ---
 

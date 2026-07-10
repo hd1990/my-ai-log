@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["商业航天"]
 tags: ["商业航天", "投资", "融资", "IPO", "SPAC", "风险投资"]
-author: "航天观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年商业航天投融资进入'收获期'。SpaceX估值突破$3,500亿，中国商业航天融资超¥500亿，多家公司冲刺IPO。但行业两极分化严重，技术落后公司融资困难。"
 ---
 

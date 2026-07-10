@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["芯片半导体"]
 tags: ["RISC-V", "ARM", "开源指令集", "芯片架构", "AI芯片", "物联网"]
-author: "芯片观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年RISC-V生态已从'学术玩具'蜕变为ARM的有力竞争者，在IoT和AI加速器领域抢占20%以上市场份额，中国成为最大推动力，开源芯片时代正在到来。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["Web3"]
 tags: ["Web3身份", "DID", "去中心化身份", "可验证凭证", "自主身份", "SSI", "W3C", "身份认证"]
-author: "Web3观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年去中心化身份（DID）和可验证凭证（VC）正在从技术标准走向商业落地。从欧盟数字身份钱包到企业员工认证，从医疗数据共享到教育证书验证，DID正在重塑数字身份的基础设施。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI营销", "AIGC", "智能投放", "营销自动化", "内容生成"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI营销市场规模突破1200亿元，从文案生成到广告投放，从用户画像到营销策略，AI正在重塑营销的每一个环节。本文全景式扫描AI营销的最新实践。"
 ---
 

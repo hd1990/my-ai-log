@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["时序数据库", "InfluxDB", "TimescaleDB", "IoT", "监控", "可观测性", "Time-Series"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年时序数据库在IoT、可观测性和金融领域需求爆发。InfluxDB 4.0和TimescaleDB 3.0的发布带来了全新的查询语言、AI集成和混合负载能力。本文深度分析时序数据库的技术演进和市场格局。"
 ---
 

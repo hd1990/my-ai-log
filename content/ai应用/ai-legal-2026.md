@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI法务", "法律科技", "合同审查", "智能咨询", "LegalTech"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI法务是2026年法律科技赛道增速最快的方向。从合同智能审查到法律咨询机器人，从诉讼预测到合规管理，AI正在改变法律服务的供给方式。"
 ---
 

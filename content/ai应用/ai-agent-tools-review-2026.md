@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI Agent", "Cursor", "Manus", "工具评测", "Claude Code"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI Agent赛道爆发，几十款工具让人眼花缭乱。本文实测7款主流AI Agent工具，从编码、办公、自动化三个维度帮你选对工具。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["出海"]
 tags: ["出海", "欧洲市场", "GDPR", "ESG", "CBAM", "碳边境税", "合规"]
-author: "出海观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年欧洲市场对中国出海企业提出了三重合规考验：GDPR数据隐私、ESG可持续发展、CBAM碳边境税。合规不再是'可选项'，而是进入欧洲市场的'入场券'。比亚迪、宁德时代等头部企业正在将合规转化为竞争优势。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["元宇宙"]
 tags: ["元宇宙标准", "Metaverse Standards Forum", "互操作性", "标准化", "ISO", "IEC", "W3C", "Khronos"]
-author: "元宇宙观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年元宇宙标准化进入实质性推进阶段。Metaverse Standards Forum（MSF）成员已超过3000家，但真正的标准化博弈才刚刚开始。本文分析元宇宙标准的最新进展、技术分歧和地缘政治因素。"
 ---
 

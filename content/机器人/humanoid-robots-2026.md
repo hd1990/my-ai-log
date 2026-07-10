@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器人"]
 tags: ["人形机器人", "Tesla Optimus", "Figure AI", "具身智能", "工厂自动化", "波士顿动力"]
-author: "机器人观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，人形机器人终于走出实验室，进入真实工厂进行部署。Tesla Optimus在特斯拉工厂开始内部使用，Figure AI的机器人已在宝马工厂运行，Agility的Digit在亚马逊仓库搬货。这是一个价值千亿美元的新赛道。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["出海"]
 tags: ["出海", "营销", "TikTok", "Google", "社交媒体", "全球投放", "KOL"]
-author: "出海观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国出海企业的营销预算从Google转向TikTok。TikTok Shop成为全球电商新引擎，AI驱动的程序化广告成为标配，KOL营销从'粗放投放'走向'精细化运营'。全球营销正在从'买量'转向'内容'。"
 ---
 

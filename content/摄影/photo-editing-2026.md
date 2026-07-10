@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["摄影后期", "Lightroom", "AI修图", "Adobe", "后期处理", "2026趋势"]
 categories: ["摄影"]
-author: "摄影爱好者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年摄影后期处理进入AI驱动时代，Adobe Lightroom、Photoshop、Capture One等工具的AI功能大幅提升后期效率。本文深度分析摄影后期的2026年工具生态、AI变革和创作理念。"
 ---
 

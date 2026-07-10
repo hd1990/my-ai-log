@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["加密货币", "以太坊", "Layer2", "Rollup", "Arbitrum", "Optimism", "ZK-Rollup"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年以太坊Layer2生态进入爆发期。L2总锁仓量突破$500亿，交易量超过主网10倍，但碎片化问题日益严重。跨L2互操作性和去中心化排序器成为核心议题。"
 ---
 

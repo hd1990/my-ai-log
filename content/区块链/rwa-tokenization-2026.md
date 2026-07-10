@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["RWA", "真实世界资产", "代币化", "资产上链", "通证化", "DeFi", "贝莱德", "合规"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年RWA（真实世界资产代币化）市场规模突破500亿美元，贝莱德、高盛和摩根大通等传统金融巨头纷纷入场。从国债代币化到房地产代币化，深度解析RWA的市场格局、技术架构和监管环境。"
 slug: "rwa-tokenization-2026"
 ---

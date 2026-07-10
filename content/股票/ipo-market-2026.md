@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["股票"]
 tags: ["IPO", "新股", "注册制", "港股", "A股", "打新"]
-author: "股海舵手"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年上半年，A股IPO数量约120家，募资约1,500亿元；港股IPO数量约35家，募资约800亿港元。全面注册制时代，IPO市场正在经历怎样的变化？"
 ---
 

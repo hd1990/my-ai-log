@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["数字人民币", "e-CNY", "CBDC", "支付", "跨境"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "数字人民币用户突破3亿，覆盖场景从零售扩展到跨境贸易。本文分析e-CNY的最新进展、技术架构和行业影响。"
 ---
 

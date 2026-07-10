@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器学习"]
 tags: ["AutoML", "自动化机器学习", "MLOps", "AI工程化", "AutoML 2.0", "模型部署"]
-author: "ML工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AutoML 2.0已经从「自动调参」进化为覆盖数据到部署的全生命周期自动化，云厂商和创业公司竞相布局，正在从根本上改变企业构建AI应用的方式。"
 ---
 

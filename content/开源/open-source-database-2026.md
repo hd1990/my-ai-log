@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开源数据库", "PostgreSQL", "MySQL", "MariaDB", "数据库", "开源生态", "DB-Engines", "SQL"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年PostgreSQL首次超越MySQL成为全球最受欢迎的开源数据库。从DB-Engines排名到云原生生态，从PostgreSQL 18到MySQL 9.0，深度解析开源数据库的市场格局、技术演进和生态竞争。"
 slug: "open-source-database-2026"
 ---

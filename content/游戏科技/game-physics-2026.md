@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["游戏科技"]
 tags: ["游戏物理引擎", "Chaos", "PhysX", "物理模拟", "2026", "游戏开发", "AI物理"]
-author: "游戏技术观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年游戏物理引擎进入AI物理模拟新时代。UE6的Chaos 2.0和NVIDIA PhysX 6实现了大规模实时物理模拟，AI物理模型让破坏效果和流体模拟更加逼真。本文深度解析物理引擎的技术架构和游戏应用。"
 ---
 

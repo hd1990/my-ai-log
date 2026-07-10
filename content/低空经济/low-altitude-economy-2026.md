@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["低空经济"]
 tags: ["低空经济", "eVTOL", "无人机", "飞行汽车", "政策"]
-author: "低空观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年低空经济从政策概念走向商业落地。eVTOL载人飞行、无人机配送、低空旅游——万亿级市场的开篇。"
 ---
 

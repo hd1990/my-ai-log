@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI医疗", "辅助诊断", "AI制药", "医疗影像", "数字健康"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI医疗是2026年最受关注的AI应用领域之一。从医学影像AI到AI制药，从智能问诊到手术机器人，AI正在改变医疗的每一个环节。本文全景解析AI医疗2026年的突破与挑战。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["写作"]
 tags: ["技术写作", "文档工程", "API文档", "开发者体验", "Docs-as-Code", "技术传播", "AI辅助技术写作"]
-author: "写作工坊"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，技术写作（Technical Writing）从'软件开发的附属品'升级为'产品体验的核心组件'。云计算、AI和开源生态的繁荣，使得高质量的API文档、开发者指南和用户手册成为企业竞争力的关键要素。本文从Docs-as-Code、AI辅助文档、API文档自动化和技术写作职业发展四个维度，分析2026年技术写作的变革趋势。"
 ---
 

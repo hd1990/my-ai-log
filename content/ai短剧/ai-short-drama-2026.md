@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI短剧", "Sora", "Runway", "AI视频", "短剧"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI短剧在2026年从实验走向量产。Sora、Runway Gen-4、可灵等工具让单人制作短剧成为可能。本文分析AI短剧的制作流程、成本和市场表现。"
 ---
 

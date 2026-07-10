@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["农业科技"]
 tags: ["垂直农业", "室内种植", "植物工厂", "Plenty", "AeroFarms", "中科三安", "LED农业", "粮食安全"]
-author: "农业科技观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，全球垂直农业行业经历了'冰火两重天'。美国明星公司Plenty宣布破产保护，AeroFarms估值缩水90%，但中国的植物工厂却在稳步扩张。垂直农业到底能不能盈利？本文从技术、成本、商业模式三个维度还原行业真相。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["SaaS出海", "全球化", "中国SaaS", "AI SaaS", "东南亚", "跨境SaaS", "AfterShip"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，中国SaaS企业的出海正在加速，从'跨境工具'到'全球化产品'的升级正在发生。本文分析中国SaaS出海的三大路径、代表企业和核心挑战。"
 ---
 

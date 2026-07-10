@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["比特币", "减半", "加密货币", "市场分析", "BTC"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2024年比特币减半后，2026年市场进入了新一轮周期。本文复盘减半两年来的市场变化、机构入场和监管进展。"
 ---
 

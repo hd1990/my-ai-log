@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器人"]
 tags: ["协作机器人", "cobot", "中小企业", "智能制造", "Universal Robots", "工业自动化"]
-author: "机器人观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，协作机器人（Cobot）市场突破120亿美元，入门级产品降至5000美元。AI编程让零基础工人也能部署机器人。对于苦于用工荒的中小制造企业，这可能是自动化'最后一块拼图'。"
 ---
 

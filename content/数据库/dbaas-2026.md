@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["DBaaS", "云数据库", "Serverless", "Aurora", "AlloyDB", "RDS", "数据库托管"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年DBaaS（数据库即服务）已经成为数据库部署的主流模式，Serverless数据库的普及和AI驱动的自治运维正在改变DBA的角色。本文从Serverless架构、多模型支持、AI自治和成本优化四个维度，深度分析云数据库的最新趋势。"
 ---
 

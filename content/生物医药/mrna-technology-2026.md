@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["生物医药"]
 tags: ["mRNA", "mRNA疫苗", "癌症疫苗", "mRNA治疗", "Moderna", "BioNTech", "LNP", "核酸药物"]
-author: "生物医药研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，mRNA技术从新冠疫苗的成功走向更广阔的应用领域。癌症疫苗、罕见病蛋白替代疗法、传染病通用疫苗……mRNA正在成为'下一代药物平台'。本文深度解析mRNA的2026年管线进展、技术挑战和市场前景。"
 ---
 

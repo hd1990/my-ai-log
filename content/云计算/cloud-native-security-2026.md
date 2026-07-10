@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["云原生安全", "Kubernetes安全", "容器安全", "CNAPP", "供应链安全", "镜像安全", "OPA", "零信任"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年云原生安全市场规模突破150亿美元。从容器镜像扫描到Kubernetes运行时安全，从CNAPP到供应链安全，深度解析云原生安全的四大支柱和最新实践，以及AI驱动的安全自动化趋势。"
 slug: "cloud-native-security-2026"
 ---

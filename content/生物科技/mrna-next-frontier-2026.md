@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["生物科技"]
 tags: ["mRNA", "生物科技", "癌症疫苗", "个性化医疗", "投资"]
-author: "生物观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "mRNA技术在新冠疫苗中证明了价值，2026年正在向癌症治疗、罕见病和个性化医疗拓展。本文分析生物科技的下一个风口。"
 ---
 

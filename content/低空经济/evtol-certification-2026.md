@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["低空经济"]
 tags: ["低空经济", "eVTOL", "适航审定", "CAAC", "FAA", "EASA"]
-author: "低空观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年eVTOL适航取证进入关键年份。中国CAAC领先全球颁发多张型号合格证，FAA和EASA加速追赶。适航审定成为eVTOL商业化的最大门槛和竞争焦点。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["创业"]
 tags: ["YC", "Y Combinator", "孵化器", "创业加速器", "创业营", "Techstars", "奇绩创坛"]
-author: "创业观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Y Combinator的估值超过1000亿美元，孵化器行业正在AI化。本文分析YC、奇绩创坛等顶级加速器的价值、变化和申请策略。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["AI Agent", "智能体", "自主行动", "工具使用", "多Agent协作", "AutoGPT", "2026趋势"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI Agent从实验走向生产，GPT-5和Claude 4等模型的Agent能力大幅增强，多Agent协作系统在企业流程自动化中创造实际价值，AI Agent市场突破200亿美元。"
 ---
 

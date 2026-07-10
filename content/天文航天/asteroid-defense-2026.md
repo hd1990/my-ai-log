@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["天文航天"]
 tags: ["小行星防御", "DART", "赫拉号", "行星防御", "近地天体"]
-author: "天文爱好者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，行星防御从科幻走向现实。NASA的DART任务证明了动能撞击的有效性，欧洲的赫拉号任务正在对小行星进行详细勘测，中国也发布了小行星防御计划。"
 ---
 

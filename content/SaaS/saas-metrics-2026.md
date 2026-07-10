@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["SaaS指标", "NDR", "LTV/CAC", "Rule of 40", "SaaS运营", "SaaS财务", "SaaS增长", "SaaS效率"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年SaaS公司最核心的三大运营指标：NDR（净收入留存率）、LTV/CAC（客户生命周期价值/获客成本比率）和Rule of 40（增长+利润率40法则）。本文提供这些指标的最新基准数据、计算方法和实战分析。"
 ---
 

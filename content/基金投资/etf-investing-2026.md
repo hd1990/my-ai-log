@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["基金投资"]
 tags: ["ETF", "指数基金", "宽基ETF", "行业ETF", "主题ETF", "投资策略"]
-author: "基金研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国ETF市场规模突破5万亿元，宽基ETF、行业ETF和主题ETF各有千秋。本文从规模、费率、业绩和配置策略四个维度，提供2026年下半年ETF投资指南。"
 ---
 

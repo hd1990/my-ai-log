@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["区块链", "DeFi", "供应链", "数字身份", "RWA", "代币化", "Web3", "企业区块链"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年区块链技术正在找到DeFi之外的真正价值。从供应链追溯到数字身份，从RWA代币化到碳信用交易，从去中心化物理基础设施(DePIN)到AI+区块链融合，探索区块链的下一个万亿级市场。"
 slug: "blockchain-beyond-defi-2026"
 ---

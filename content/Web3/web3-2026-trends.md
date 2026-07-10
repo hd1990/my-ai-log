@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["Web3"]
 tags: ["Web3", "去中心化社交", "创作者经济", "Farcaster", "Lens Protocol", "SocialFi", "DeSoc"]
-author: "Web3观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Web3正在从DeFi主导转向社交和创作者经济驱动。Farcaster、Lens Protocol等去中心化社交协议用户增长强劲，SocialFi和链上创作者经济正在形成闭环。"
 ---
 

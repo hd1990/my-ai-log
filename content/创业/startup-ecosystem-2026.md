@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["创业"]
 tags: ["创业", "AI创业", "创投", "风险投资", "独角兽", "孵化器"]
-author: "创业观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国AI创业融资额占全球35%，AI Agent、垂直SaaS、AI硬件成为最热赛道。本文从融资数据、政策环境、赛道分析三个维度，解析2026年的创业环境与机会。"
 ---
 

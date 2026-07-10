@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["Matter", "智能家居", "Thread", "Apple Home", "Google Home", "Amazon Alexa", "CSA", "物联网标准"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Matter 2.0协议正式发布，加入摄像头、家电和能源管理等关键设备类型。全球Matter认证设备突破5亿台，Apple、Google、Amazon全面拥抱统一标准。智能家居'碎片化'时代正在终结。"
 slug: "matter-protocol-2026"
 ---

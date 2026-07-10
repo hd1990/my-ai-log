@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["深度学习"]
 tags: ["模型对齐", "RLHF", "DPO", "AI安全", "Constitutional AI", "RLHAIF", "2026趋势"]
-author: "深度学习研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年模型对齐从LLM的必要步骤发展为AI安全的核心技术，DPO方法全面超越RLHF成为主流，Constitutional AI实现自动化对齐，多目标对齐解决安全与性能的权衡。"
 ---
 

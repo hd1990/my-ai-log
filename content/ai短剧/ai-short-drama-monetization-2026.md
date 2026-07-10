@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI短剧", "变现", "内容创业", "抖音", "商业模式"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI短剧流量很大，但能赚钱吗？本文分析AI短剧的三种变现模式、真实收入数据和盈利门槛。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["物理"]
 tags: ["粒子物理", "Higgs工厂", "对撞机", "CEPC", "FCC", "中微子", "暗物质"]
-author: "物理爱好者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年粒子物理学正站在下一代大科学装置规划的十字路口。中国环形正负电子对撞机（CEPC）和欧洲未来环形对撞机（FCC）的Higgs工厂方案正在激烈竞争，中微子实验和暗物质探测也在同步推进。"
 ---
 

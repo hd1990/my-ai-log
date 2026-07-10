@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["Web3"]
 tags: ["GameFi", "Web3游戏", "链游", "Axie Infinity", "可玩性", "P2E", "区块链游戏", "游戏经济"]
-author: "Web3观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年GameFi正在从'Play to Earn'的投机模式转向'Play AND Earn'的可持续模式。游戏的可玩性、画面质量和用户体验正在取代代币经济学成为GameFi竞争的核心。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["SaaS销售", "SLG", "PLG", "产品驱动增长", "销售驱动增长", "上市策略", "GTM", "SaaS增长"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年SaaS销售模式正在从SLG（销售驱动增长）向PLG（产品驱动增长）全面转变。AI正在重塑SaaS销售流程，PLG+SLG的混合模式成为主流。本文分析2026年SaaS销售的变革趋势和最佳实践。"
 ---
 

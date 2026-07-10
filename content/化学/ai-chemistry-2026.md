@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["化学"]
 tags: ["AI化学", "机器学习", "分子发现", "AlphaFold", "药物发现", "计算化学"]
-author: "化学观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年人工智能正在深刻改变化学研究范式。从AlphaFold 3到分子生成模型，从自动化实验室到量子化学AI，机器学习正在加速分子发现的速度和广度。"
 ---
 

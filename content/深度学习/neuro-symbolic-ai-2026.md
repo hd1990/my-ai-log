@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["深度学习"]
 tags: ["神经符号AI", "符号推理", "深度学习", "知识图谱", "可解释AI", "逻辑推理", "2026趋势"]
-author: "深度学习研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年神经符号AI从概念走向实践，深度学习与符号推理的融合在数学证明、代码生成和科学发现中取得突破，AlphaGeometry 2和GPT-5等模型展示了神经符号方法的强大潜力。"
 ---
 

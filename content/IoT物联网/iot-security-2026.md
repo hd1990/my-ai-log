@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["物联网安全", "IoT安全", "设备安全", "Mirai", "SBOM", "零信任", "PSA Certified"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，物联网安全正在从'可选项'变成'必选项'。全球400亿台IoT设备中，超过60%存在已知安全漏洞。Mirai僵尸网络的'遗产'仍在发酵，IoT安全法规正在全球加速落地。本文深度分析IoT安全的核心挑战、技术方案和产业趋势。"
 ---
 

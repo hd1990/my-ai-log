@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["基金投资"]
 tags: ["指数基金", "Smart Beta", "宽基指数", "ETF", "被动投资"]
-author: "基金研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年上半年，指数基金规模突破4万亿元，ETF日均成交额突破2,000亿元。在主动基金持续跑输指数的背景下，如何通过宽基指数和Smart Beta ETF构建高效的指数投资组合？"
 ---
 

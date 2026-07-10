@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["写作"]
 tags: ["写作工具", "Notion", "Obsidian", "AI写作", "Roam Research", "Logseq", "Markdown", "写作工作流"]
-author: "写作工坊"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，写作工具生态经历了深刻的变革。Notion从'万能工作空间'进化为'AI写作平台'，Obsidian以'本地优先+插件生态'赢得了知识管理爱好者的心，AI写作工具从'替代人类'转向'增强人类'。本文分析2026年主流写作工具的特点、适用场景和最佳组合策略。"
 ---
 

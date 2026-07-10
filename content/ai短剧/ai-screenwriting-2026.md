@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI编剧", "大模型", "剧本创作", "内容生成", "AIGC"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI编剧已经从概念走向量产。短剧行业大量使用AI辅助编剧，效率提升10倍，但好剧本仍需人的判断。本文深度解析AI编剧的实践、工具和边界。"
 ---
 

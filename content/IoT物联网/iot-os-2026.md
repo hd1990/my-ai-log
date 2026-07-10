@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["物联网操作系统", "RT-Thread", "AliOS", "FreeRTOS", "Zephyr", "OpenHarmony", "嵌入式系统"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，物联网操作系统正在从'可选'变成'必选'。随着IoT设备功能越来越复杂（AI推理、多协议通信、安全需求），裸机开发已经无法满足需求。RT-Thread、AliOS、FreeRTOS、Zephyr、OpenHarmony五大IoT OS正在争夺这个巨大的市场。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["加密货币", "Meme币", "社交媒体", "代币", "文化现象", "DOGE", "SHIB"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Meme币在2026年从'笑话'变成了'文化资产类别'。DOGE市值稳定在$500亿以上，TikTok和Twitter成为Meme币的'造币厂'，但99%的Meme币在3个月内归零。这个市场疯狂背后有其社会学逻辑。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["3D设计", "Blender", "Spline", "三维设计", "2026趋势"]
 categories: ["设计"]
-author: "设计观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年3D设计从专业工具走向大众化，Blender和Spline引领Web端3D设计革命，AI 3D生成技术突破性进展。本文深度分析3D设计的2026年工具生态、技术趋势和应用场景。"
 ---
 

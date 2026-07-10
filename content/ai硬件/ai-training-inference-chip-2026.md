@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["AI芯片", "GPU", "训练芯片", "推理芯片", "NVIDIA", "ASIC"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI芯片市场格局剧变。训练芯片领域NVIDIA依然垄断，但推理芯片市场百花齐放。本文从训练和推理两个维度，全面解析AI芯片市场的最新格局。"
 ---
 

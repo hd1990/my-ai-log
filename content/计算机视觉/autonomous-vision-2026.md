@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["计算机视觉"]
 tags: ["自动驾驶", "纯视觉", "激光雷达", "特斯拉", "FSD", "多传感器融合"]
-author: "CV工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年自动驾驶视觉技术路线之争愈演愈烈，特斯拉纯视觉方案FSD v14全球推广，Waymo、百度Apollo坚持激光雷达融合，技术路线、成本和安全性的博弈正在重塑自动驾驶产业格局。"
 ---
 

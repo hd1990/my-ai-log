@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["云数据库", "RDS", "Serverless数据库", "Aurora", "AlloyDB", "分布式数据库", "PolarDB", "TiDB"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球云数据库市场规模突破800亿美元，Serverless数据库成为增长最快的品类。从AWS Aurora到阿里云PolarDB，从TiDB到CockroachDB，深度解析云数据库的技术演进、市场格局和选型策略。"
 slug: "cloud-database-2026"
 ---

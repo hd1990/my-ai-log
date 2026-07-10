@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["DevOps"]
 tags: ["DevSecOps", "安全左移", "SAST", "DAST", "SCA", "容器安全", "CI/CD安全", "安全自动化"]
-author: "DevOps工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年DevSecOps从概念走向全面落地，安全左移不再是一个口号而是工程实践。从SAST到SCA，从容器安全到CI/CD安全，深度解析2026年DevSecOps的工具链、工作流和最佳实践。"
 slug: "devsecops-2026"
 ---

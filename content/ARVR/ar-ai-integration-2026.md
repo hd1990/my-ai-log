@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["AR", "AI", "大语言模型", "空间计算", "多模态AI", "智能眼镜"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AR和AI的融合正在创造一种全新的人机交互范式：AI通过AR眼镜'看见'你的世界，实时提供信息、翻译、导航和决策辅助。本文深度分析AR+AI的五大应用场景和技术挑战。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["Layer 2", "以太坊", "Rollup", "Arbitrum", "Optimism", "zkSync", "StarkNet", "区块链扩容"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年以太坊Layer 2生态全面爆发，Arbitrum、Optimism和zkSync三强争霸，总TVL突破800亿美元。深度解析Layer 2的技术路线、生态格局、治理模式和未来趋势。"
 slug: "layer2-ecosystem-2026"
 ---

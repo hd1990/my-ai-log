@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["加密货币", "加密钱包", "Web3", "智能钱包", "账户抽象", "MetaMask"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年加密钱包从'资产存储工具'进化为'Web3超级应用'。智能钱包(Account Abstraction)普及，内嵌DEX和DeFi，社交恢复成为标配，钱包正在成为Web3的'浏览器+银行+社交'入口。"
 ---
 

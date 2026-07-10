@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["Prompt", "提示词工程", "Claude", "ChatGPT", "技巧"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Prompt Engineering 是2026年最重要的AI技能之一。本文从基础到进阶，系统讲解写出高质量提示词的技巧和框架。"
 ---
 

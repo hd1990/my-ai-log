@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["加密货币", "比特币", "ETF", "机构投资", "SEC", "贝莱德"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年比特币ETF市场持续扩张。美国现货比特币ETF净流入突破$500亿，以太坊ETF获批后表现强劲，香港和欧洲加速追赶。机构资金正在重塑加密市场格局。"
 ---
 

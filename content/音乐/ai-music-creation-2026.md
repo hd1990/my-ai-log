@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["AI音乐", "Suno", "Udio", "AI作曲", "音乐生成", "人工智能"]
 categories: ["音乐"]
-author: "音乐观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI音乐创作工具Suno和Udio已经进化到能够生成媲美专业水准的音乐作品，AI正在从根本上改变音乐创作的方式。本文深度分析AI音乐创作的技术突破和产业影响。"
 ---
 

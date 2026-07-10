@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["身份安全", "无密码认证", "Passkey", "FIDO2", "生物识别", "零信任", "身份即安全", "MFA"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球身份安全市场规模突破300亿美元，Passkey和生物识别正在取代传统密码。从FIDO2到Passkey，从指纹到行为生物识别，深度解析无密码认证的技术路线、产业生态和安全挑战。"
 slug: "identity-security-2026"
 ---

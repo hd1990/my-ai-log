@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["后端开发"]
 tags: ["服务网格", "Istio", "Linkerd", "Cilium", "Envoy", "零信任", "mTLS", "Kubernetes"]
-author: "后端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年服务网格已经从「大厂专属」走向「企业标配」。Istio Ambient Mesh无Sidecar架构的成熟、Cilium eBPF的崛起和零信任安全的全面落地，正在改变微服务治理的方式。本文深度分析服务网格的技术演进和市场格局。"
 ---
 

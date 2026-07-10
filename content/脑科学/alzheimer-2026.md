@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["脑科学"]
 tags: ["阿尔茨海默病", "Lecanemab", "Donanemab", "AD", "Aβ抗体", "痴呆", "神经退行性疾病", "早期诊断"]
-author: "脑科学研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，阿尔茨海默病治疗进入'疾病修饰疗法'时代。Lecanemab和Donanemab在中国获批上市，中国自主研发的AD药物进入临床后期。从血液标志物筛查到抗Aβ抗体，再到tau靶向疗法，AD正在从'绝症'变为'慢病'。本文深度解析AD诊疗的2026年突破。"
 ---
 

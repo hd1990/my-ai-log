@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器学习"]
 tags: ["图神经网络", "GNN", "药物发现", "推荐系统", "GCN", "GraphSAGE", "GAT", "2026趋势"]
-author: "ML工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年图神经网络技术日趋成熟，在药物分子生成、蛋白质结构预测、推荐系统和欺诈检测中取得突破性应用，图基础模型和动态图学习成为新热点。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["元宇宙"]
 tags: ["消费元宇宙", "虚拟社交", "数字身份", "VR社交", "虚拟形象", "Meta Horizon", "VRChat", "Rec Room"]
-author: "元宇宙观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年消费元宇宙的核心战场从VR硬件转向了虚拟社交和数字身份。本文分析Meta Horizon Worlds、VRChat、Rec Room等平台的用户数据和商业模式，以及数字身份如何成为消费元宇宙的'通行证'。"
 ---
 

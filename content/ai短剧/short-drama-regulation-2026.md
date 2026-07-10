@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI短剧", "内容监管", "版权保护", "行业规范", "AI审核"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI短剧的快速发展带来了监管新挑战。从AI内容审核到版权保护，从行业自律到政府监管，短剧行业正在建立新的治理框架。"
 ---
 

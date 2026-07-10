@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["前端开发"]
 tags: ["React", "Server Components", "边缘渲染", "Next.js", "Astro", "Remix", "SSR", "前端性能"]
-author: "前端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年前端开发的范式已从纯客户端渲染全面转向Server Components + 边缘渲染混合架构。React Server Components在Next.js 16中的成熟、Astro的崛起和边缘网络的普及，正在重塑前端开发的每一个环节。"
 ---
 

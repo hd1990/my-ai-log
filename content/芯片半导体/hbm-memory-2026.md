@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["芯片半导体"]
 tags: ["HBM", "高带宽内存", "AI芯片", "SK海力士", "三星", "美光", "NVIDIA", "2026趋势"]
-author: "芯片观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "HBM高带宽内存在2026年成为AI芯片的最大瓶颈，SK海力士、三星、美光三强争霸，产能不足导致GPU交付延迟，HBM4标准即将落地。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["互联网"]
 tags: ["社交媒体", "AI生成内容", "AIGC", "内容平台", "社交网络"]
-author: "互联网风向标"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年社交媒体正在经历从图文到AI生成内容的范式转移。AI生成内容占比超过30%，社交媒体的内容生态、推荐算法和商业模式都在被AI重塑。"
 ---
 

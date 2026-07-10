@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI客服", "大模型", "智能客服", "RAG", "行业数字化"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI客服市场规模突破800亿元，大模型驱动的智能客服正在从'关键词匹配'走向'真正理解'。本文深度分析AI客服的技术演进、商业落地和行业格局。"
 ---
 

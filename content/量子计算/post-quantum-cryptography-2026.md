@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["量子计算"]
 tags: ["PQC", "加密", "量子安全", "NIST", "网络安全"]
-author: "量子观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球开始大规模迁移到后量子密码学（PQC）。本文解释PQC是什么、为什么紧急、以及迁移的实际影响。"
 ---
 

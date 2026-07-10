@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["低空经济"]
 tags: ["低空经济", "基础设施", "起降场", "5G-ATG", "UAM"]
-author: "低空观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "低空经济起飞的前提是基础设施到位。2026年中国低空基础设施投资超千亿，起降场、通信网络和UTM系统建设全面加速。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["芯片半导体"]
 tags: ["Chiplet", "UCIe", "先进封装", "异构集成", "半导体", "开放标准", "2026趋势"]
-author: "芯片观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Chiplet技术正从根本上改变芯片设计范式，UCIe 2.0标准推动开放芯片let生态成熟，Intel、AMD、NVIDIA和中国厂商纷纷布局，异构集成时代全面到来。"
 ---
 

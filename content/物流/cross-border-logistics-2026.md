@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["物流"]
 tags: ["跨境物流", "Shein", "Temu", "全球供应链", "跨境电商", "关税", "海外仓"]
-author: "物流观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Shein和Temu的崛起正在重塑全球跨境物流格局。从免税红利终结到海外仓军备竞赛，从空运运力争夺到中欧班列崛起，2026年的跨境物流正在经历一场深度变革。"
 ---
 

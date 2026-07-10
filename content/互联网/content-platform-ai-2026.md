@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["互联网"]
 tags: ["内容平台", "B站", "小红书", "抖音", "AI化", "推荐算法"]
-author: "互联网风向标"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年B站、小红书和抖音三大内容平台的AI化竞争进入深水区。从AI推荐到AI创作，从AI搜索到AI商业化，AI正在重塑内容平台的每一个环节。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["音乐流媒体", "Spotify", "Apple Music", "腾讯音乐", "市场竞争"]
 categories: ["音乐"]
-author: "音乐观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球音乐流媒体用户突破10亿，Spotify、Apple Music和腾讯音乐三分天下。本文深度分析三大平台的竞争格局和未来走向。"
 ---
 

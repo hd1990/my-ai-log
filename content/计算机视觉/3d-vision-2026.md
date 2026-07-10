@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["计算机视觉"]
 tags: ["3D视觉", "NeRF", "3D Gaussian Splatting", "点云", "深度估计", "三维重建", "SLAM", "自动驾驶"]
-author: "CV工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，3D视觉技术从学术研究全面走向产业应用。NeRF和3D Gaussian Splatting使得照片级真实感的三维重建成为可能，自动驾驶中的3D感知从LiDAR走向'纯视觉+Transformer'，消费级3D内容生成工具爆发。本文分析2026年3D视觉的核心技术进展和产业应用。"
 ---
 

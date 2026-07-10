@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["自动驾驶"]
 tags: ["自动驾驶", "L4", "Waymo", "Robotaxi", "无人驾驶", "商业运营"]
-author: "自动驾驶观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，L4级自动驾驶正在从试点走向规模化。Waymo在5个城市运营无人出租车，每周完成超过15万单。中国Robotaxi车队规模突破5000辆。但技术和监管挑战依然存在。本文基于真实数据还原2026年自动驾驶商业化图景。"
 ---
 

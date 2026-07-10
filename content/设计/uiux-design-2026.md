@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["UI设计", "UX设计", "AI设计", "界面设计", "用户体验", "2026趋势"]
 categories: ["设计"]
-author: "设计观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年UI/UX设计正在经历AI驱动的范式变革，从生成式UI到个性化界面，从设计系统到AI原生设计。本文深度分析UI/UX设计的2026年趋势、工具变革和设计思维演进。"
 ---
 

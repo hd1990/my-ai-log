@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开源治理", "BDFL", "开放治理", "社区治理", "CNCF", "Apache", "Linux基金会", "开源社区"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年开源社区治理模式正在从BDFL（仁慈的终身独裁者）向开放治理转型。从Linux到Kubernetes，从Python到Rust，深度解析开源社区治理的演进、挑战和最佳实践。"
 slug: "open-source-governance-2026"
 ---

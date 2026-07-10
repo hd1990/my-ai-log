@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["低空经济"]
 tags: ["低空经济", "监管", "U-space", "空域管理", "UTM"]
-author: "低空观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "低空经济的最大瓶颈不是技术，而是监管。2026年全球低空空域管理制度加速成型，中国UOM系统领先，欧洲U-space框架完善，美国LAANC体系升级。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["稳定币", "USDT", "USDC", "算法稳定币", "加密货币", "支付", "DeFi", "监管"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球稳定币市场规模突破3000亿美元，USDT和USDC占据90%以上市场份额，算法稳定币在UST崩盘后重新崛起。深度解析稳定币的市场格局、监管环境和技术创新。"
 slug: "stablecoin-2026"
 ---

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["零信任", "Zero Trust", "ZTA", "SASE", "身份安全", "微分段", "网络安全架构"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年零信任架构从概念走向大规模落地。全球65%的大型企业已部署零信任，市场规模突破700亿美元。本文从身份、设备、网络、应用、数据五个维度，系统梳理零信任落地的路径、挑战和最佳实践。"
 slug: "zero-trust-2026"
 ---

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["创业"]
 tags: ["独角兽", "创投", "AI", "估值", "IPO", "风险投资"]
-author: "创业观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球独角兽数量突破1500家，AI独角兽占比超过30%。本文基于CB Insights和PitchBook数据，分析全球新晋独角兽的行业分布、地域格局和资本趋势。"
 ---
 

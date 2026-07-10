@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["工业物联网", "IIoT", "智能制造", "预测性维护", "数字孪生", "工业5G", "制造业", "工业AI"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球工业物联网市场规模突破5000亿美元。从预测性维护到数字孪生，从5G专网到工业AI，从西门子到三一重工，深度解析工业物联网如何重塑全球制造业。"
 slug: "industrial-iot-2026"
 ---

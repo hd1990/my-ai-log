@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["前端开发"]
 tags: ["前端测试", "Vitest", "Playwright", "Cypress", "Testing Library", "E2E测试", "单元测试", "测试金字塔"]
-author: "前端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年前端测试已经形成了以Vitest为单元测试标准、Playwright为E2E测试标准的新格局。本文从测试金字塔、工具选型、AI辅助测试和CI/CD集成四个维度，全面解读现代前端测试的最佳实践。"
 ---
 

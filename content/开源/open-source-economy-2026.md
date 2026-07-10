@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开源经济", "开源贡献者", "GitHub Sponsors", "开源商业化", "开发者经济", "开源收入", "独立开发者"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年开源贡献者经济的规模突破100亿美元，GitHub Sponsors、Open Collective和Tidelift等平台让开源维护者可以靠开源谋生。深度解析开源贡献者的收入模式、成功案例和经济生态。"
 slug: "open-source-economy-2026"
 ---

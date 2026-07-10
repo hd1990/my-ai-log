@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["教育"]
 tags: ["AI教育", "在线教育", "教育科技", "AI教师", "学校"]
-author: "教育新知"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI教育从概念验证进入常态化应用。本文分析AI在学校教育、在线教育和家庭教育中的实际应用和效果数据。"
 ---
 

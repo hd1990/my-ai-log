@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI搜索", "Perplexity", "秘塔", "Google", "搜索评测"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI搜索引擎正在改变我们获取信息的方式。本文实测Perplexity、秘塔AI搜索和Google SGE，从准确性、速度、深度三个维度告诉你谁更好用。"
 ---
 

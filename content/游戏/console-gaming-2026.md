@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["主机游戏", "PS6", "Switch 2", "PlayStation", "任天堂", "游戏主机", "次世代"]
 categories: ["游戏"]
-author: "游戏观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年主机游戏市场迎来新的世代更迭，PS6和Switch 2的发布重塑了全球主机游戏格局。本文深度分析新一代主机游戏市场的竞争态势和技术革新。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["职场"]
 tags: ["自由职业", "灵活就业", "平台经济", "零工经济", "Freelancer", "Upwork", "猪八戒"]
-author: "职场观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国灵活就业人口超过2.5亿，自由职业市场约5000亿元。本文分析自由职业的机遇、挑战、平台生态和未来趋势。"
 ---
 

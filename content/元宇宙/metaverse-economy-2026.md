@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["元宇宙"]
 tags: ["元宇宙经济", "虚拟土地", "数字商品", "NFT", "虚拟时尚", "创作者经济", "Decentraland", "Roblox"]
-author: "元宇宙观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年元宇宙经济正在从投机泡沫中走出，进入理性增长阶段。虚拟土地市场从狂热回归合理，但数字商品、虚拟时尚和创作者经济正在形成可持续的商业闭环。"
 ---
 

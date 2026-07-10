@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["人形机器人", "Tesla Optimus", "Figure AI", "具身智能", "宇树"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年人形机器人进入工厂测试阶段，Tesla Optimus、Figure 02、宇树H1等产品加速落地。本文从硬件、软件和商业化三个维度分析行业现状。"
 ---
 

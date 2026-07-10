@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["元宇宙"]
 tags: ["Apple Vision Pro", "空间计算", "visionOS", "AR应用", "VR应用", "Apple生态"]
-author: "元宇宙观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Apple Vision Pro发布两年后，虽然硬件销量不及预期，但其空间计算生态正在悄然成熟。本文盘点2026年visionOS平台上最具代表性的应用，涵盖生产力、设计、医疗、教育、娱乐五大领域。"
 ---
 

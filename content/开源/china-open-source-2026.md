@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["中国开源", "DeepSeek", "PingCAP", "开源社区", "开源贡献", "开源基金会", "TiDB", "鸿蒙"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国开源力量从跟随者变为主要贡献者。DeepSeek开源模型震动全球，PingCAP、APISIX等中国开源项目走向世界，华为、阿里巴巴、字节跳动成为全球顶级开源贡献者。中国开源正在经历从'拿来主义'到'主动贡献'的历史性转变。"
 slug: "china-open-source-2026"
 ---

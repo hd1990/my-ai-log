@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["游戏科技"]
 tags: ["游戏引擎", "Unreal Engine 6", "Unity 7", "Epic Games", "Unity", "游戏开发", "Nanite", "Lumen"]
-author: "游戏技术观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年游戏引擎双雄Unreal Engine 6和Unity 7都完成了重大版本迭代。本文从渲染技术、开发工作流、AI集成、跨平台支持和授权模式五个维度深度对比两大引擎的新格局。"
 ---
 

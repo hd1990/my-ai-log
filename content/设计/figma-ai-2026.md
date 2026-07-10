@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["设计"]
 tags: ["Figma", "AI设计", "设计工具", "Config 2026", "Adobe", "协作设计"]
-author: "设计观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Figma在2026年通过AI深度整合重新定义了设计工具。从Design Partner到Figma Slides AI，从代码生成到设计系统自动化，本文深入分析Figma AI如何塑造设计工具的未来。"
 ---
 

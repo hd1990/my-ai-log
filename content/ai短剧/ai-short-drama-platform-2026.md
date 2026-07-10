@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI短剧", "快手", "抖音", "B站", "短剧平台", "内容生态"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国短剧平台竞争进入白热化阶段。快手、抖音、B站、腾讯视频、爱奇艺各自构建短剧生态，AI技术成为平台差异化竞争的关键。"
 ---
 

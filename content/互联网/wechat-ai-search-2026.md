@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["互联网"]
 tags: ["微信", "AI搜索", "超级App", "腾讯", "产品分析"]
-author: "互联网风向标"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "微信AI搜索用户突破2亿，成为国内最大的AI搜索入口之一。本文分析微信AI化的产品逻辑和行业影响。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["边缘计算", "Edge Computing", "5G", "IoT", "CDN", "边缘AI", "算力下沉", "Cloudflare", "AWS"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球边缘计算市场规模突破2500亿美元，算力从云端向边缘节点大规模下沉。从Cloudflare Workers到AWS Wavelength，从5G MEC到边缘AI推理，深度解析边缘计算的技术架构、商业生态和产业格局。"
 slug: "edge-computing-2026"
 ---

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["Meta Quest 4", "Ray-Ban Meta", "VR头显", "智能眼镜", "社交AR", "Horizon Worlds"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Meta在2026年同时押注VR和AR两条路线：Quest 4以499美元主攻沉浸式VR，Ray-Ban Meta智能眼镜出货量突破200万副，探索轻量AR。扎克伯格的元宇宙梦还在继续吗？"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["Web3"]
 tags: ["SocialFi", "Farcaster", "Lens Protocol", "去中心化社交", "DeSoc", "Web3社交", "创作者经济", "链上社交"]
-author: "Web3观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年SocialFi正在从'概念验证'走向'用户增长'。Farcaster突破500万用户，Lens Protocol构建开放式社交图谱，去中心化社交正在从'极客玩具'变成'主流应用'。"
 ---
 

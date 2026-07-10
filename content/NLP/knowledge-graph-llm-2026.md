@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["知识图谱", "LLM", "GraphRAG", "RAG", "知识管理", "图数据库", "2026趋势"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年GraphRAG成为企业AI应用的主流架构，知识图谱为大模型提供精确的结构化知识，LLM为知识图谱提供自然语言理解和自动构建能力，两者深度融合重塑企业知识管理。"
 ---
 

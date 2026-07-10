@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["企业服务"]
 tags: ["企业服务", "AI Agent", "企业软件", "人工智能", "智能体", "自动化", "2026趋势"]
-author: "企服观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI Agent正在从概念走向企业核心业务系统，重构ERP、CRM、HR、客服等传统企业软件。本文分析AI Agent在企业服务中的落地场景、核心价值和2026年市场格局。"
 ---
 

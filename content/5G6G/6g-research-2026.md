@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["5G6G"]
 tags: ["6G", "太赫兹", "AI原生网络", "通信标准", "3GPP", "华为"]
-author: "通信观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年是6G研发的关键年份，3GPP正式开始6G标准化工作，ITU确定了6G关键性能指标。太赫兹通信实现实验室突破，AI原生网络成为6G的核心设计理念。中国、美国、欧洲、日韩的6G竞赛全面展开。"
 ---
 

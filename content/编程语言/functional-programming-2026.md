@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["函数式编程", "Elixir", "Gleam", "Scala", "Haskell", "Erlang", "BEAM", "编程语言"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年函数式编程迎来了新一轮复兴。Elixir在实时系统领域的爆发、Gleam语言的异军突起和Scala 4的转型，正在重新定义函数式编程在现代软件开发中的地位。本文从语言生态、并发模型和实际应用三个维度深度分析。"
 ---
 

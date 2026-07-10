@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开放标准", "开源", "互操作性", "W3C", "IETF", "OASIS", "CNCF", "标准与开源协同"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年开放标准与开源软件的协同关系更加紧密，从Kubernetes到Wasm，从OpenTelemetry到OpenAPI。深度解析开放标准的重要性、与开源的关系，以及2026年最重要的开放标准。"
 slug: "open-standards-2026"
 ---

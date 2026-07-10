@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["商业航天"]
 tags: ["商业航天", "火箭发射", "SpaceX", "可回收", "中国商业火箭"]
-author: "航天观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球商业火箭发射市场格局重塑。SpaceX仍占半壁江山但份额下降，中国商业火箭公司发射次数翻倍，印度和欧洲加速追赶。发射价格战加剧行业洗牌。"
 ---
 

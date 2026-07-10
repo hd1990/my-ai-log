@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["独立游戏", "Steam", "Switch", "任天堂", "独立游戏开发者", "买断制游戏"]
 categories: ["游戏"]
-author: "游戏观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年独立游戏在全球游戏市场中扮演着越来越重要的角色，Steam和Switch成为独立游戏开发者最重要的两个平台。本文分析独立游戏市场的最新趋势和中国独立游戏的发展。"
 ---
 

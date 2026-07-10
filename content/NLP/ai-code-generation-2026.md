@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["代码生成", "GitHub Copilot", "Cursor", "AI编程", "LLM", "软件开发", "2026趋势"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI代码生成进入Agent时代，GitHub Copilot X和Cursor实现全仓库级别的代码理解和生成，AI自主完成复杂编程任务，开发者角色从编码者转变为AI编排者。"
 ---
 

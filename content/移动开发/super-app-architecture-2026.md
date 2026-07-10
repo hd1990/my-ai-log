@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["超级App", "小程序", "轻应用", "微信", "支付宝", "抖音", "Instant App", "PWA"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年超级App的小程序生态已从中国的独特现象演变为全球趋势。微信、支付宝、抖音、Telegram、Snapchat各自的小程序平台正在重塑移动互联网的应用分发格局。"
 ---
 

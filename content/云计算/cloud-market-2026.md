@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["云计算", "AWS", "Azure", "阿里云", "谷歌云", "市场份额", "IaaS"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球云计算市场突破4000亿美元，AWS、Azure、阿里云三强格局深度解析。从AI驱动增长到价格战，从中国市场变局到边缘计算，全面解读云计算产业最新动态。"
 slug: "cloud-market-2026"
 ---

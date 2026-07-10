@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["心理"]
 tags: ["数字心理健康", "数字疗法", "心理健康App", "DTx", "Calm", "Headspace", "AI心理"]
-author: "心理咨询师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球数字心理健康市场规模达185亿美元，数字疗法获批产品超过50款。本文从产品、监管、效果三个维度，全面分析数字心理健康产业的现状与趋势。"
 ---
 

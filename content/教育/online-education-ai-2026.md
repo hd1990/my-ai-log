@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["教育"]
 tags: ["在线教育", "AI", "学习效果", "个性化", "自适应"]
-author: "教育新知"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "在线教育从规模化走向个性化。AI驱动的自适应学习、实时反馈和智能推荐，正在让学习效果从看视频变成真学会。"
 ---
 

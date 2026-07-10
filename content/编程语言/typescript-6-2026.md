@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["TypeScript", "JavaScript", "类型系统", "静态分析", "tRPC", "Zod", "编程语言"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "TypeScript 6.0在2026年Q1发布，带来了类型系统的重要突破：类型级别的模式匹配、更好的类型推断、Branded Types标准化和全新的类型检查性能优化。本文深入解读这些新特性及其对日常开发的影响。"
 ---
 

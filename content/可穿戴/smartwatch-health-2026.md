@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["可穿戴"]
 tags: ["智能手表", "Apple Watch", "健康监测", "血压监测", "血糖监测", "三星Galaxy Watch"]
-author: "可穿戴观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，智能手表完成了从'健身追踪器'到'腕上诊所'的蜕变。Apple Watch Series 11和三星Galaxy Watch 8均已实现医疗级血压监测，血糖无创监测取得突破性进展。智能手表正在成为个人健康管理的第一入口。"
 ---
 

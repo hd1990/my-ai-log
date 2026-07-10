@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["SaaS", "中国SaaS", "AI Native", "AI SaaS", "企业服务", "大模型", "2026趋势"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国SaaS市场正在经历AI Native革命。新一代从LLM出发的SaaS产品正在颠覆传统SaaS架构，从功能设计到定价模式全面重构。本文分析AI Native SaaS的定义、代表产品和市场格局。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["后端开发"]
 tags: ["API设计", "GraphQL", "gRPC", "REST", "tRPC", "微服务", "API网关"]
-author: "后端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年API设计已形成REST、GraphQL、gRPC和tRPC四足鼎立的格局。本文从性能、开发体验、生态和适用场景四个维度深度对比，帮你做出正确的API技术选型。"
 ---
 

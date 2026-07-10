@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["自动驾驶"]
 tags: ["自动驾驶芯片", "Mobileye", "NVIDIA", "地平线", "高通", "黑芝麻", "算力"]
-author: "自动驾驶观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，自动驾驶芯片进入'千TOPS时代'。英伟达Thor以2000 TOPS自研算力领跑，Mobileye以EyeQ7和开放策略反击，地平线征程6以560 TOPS和性价比突围。自动驾驶芯片三强格局正在形成，高通和黑芝麻也在积极追赶。"
 ---
 

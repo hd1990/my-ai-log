@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["中国SaaS", "资本市场", "SaaS上市", "SaaS并购", "SaaS估值", "科创板", "港股", "SaaS IPO"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国SaaS资本市场正在经历估值重构。从港股上市窗口到A股科创板机遇，从产业资本并购到PE收购，中国SaaS的资本路径正在变得多元化。本文分析2026年中国SaaS资本市场的最新动态和趋势。"
 ---
 

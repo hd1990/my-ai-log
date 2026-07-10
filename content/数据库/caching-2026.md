@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["缓存", "Redis", "Valkey", "Dragonfly", "Garnet", "Redis Stack", "缓存架构"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Redis许可证变更后，Valkey作为Linux基金会旗下的Redis替代品迅速崛起，形成了Redis + Valkey的双雄格局。本文从许可证变迁、性能对比、缓存架构和选型实践四个维度，深度分析2026年缓存技术的最新格局。"
 ---
 

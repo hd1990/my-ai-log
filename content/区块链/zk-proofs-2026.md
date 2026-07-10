@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["零知识证明", "ZK", "zkSNARK", "zkSTARK", "隐私", "扩容", "ZK Rollup", "密码学"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年零知识证明（ZK）技术从区块链扩容工具发展为通用计算范式，应用场景从ZK Rollup扩展到隐私、身份和AI。深度解析ZK的技术路线、生态应用和未来趋势。"
 slug: "zk-proofs-2026"
 ---

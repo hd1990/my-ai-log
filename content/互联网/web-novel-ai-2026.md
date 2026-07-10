@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["互联网"]
 tags: ["网络文学", "AI写作", "网文出海", "内容出海", "AI创作"]
-author: "互联网风向标"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国网络文学市场规模突破500亿元，AI写作从辅助工具变为核心生产力，网文出海成为中国文化出海的新名片。"
 ---
 

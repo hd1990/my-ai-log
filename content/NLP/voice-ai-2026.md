@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["语音AI", "TTS", "语音合成", "语音识别", "ASR", "多模态AI", "Voice Agent", "2026趋势"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年语音AI实现重大突破，零样本语音克隆、实时语音翻译和情感语音合成技术成熟，AI语音助手和Voice Agent成为人机交互新范式。"
 ---
 

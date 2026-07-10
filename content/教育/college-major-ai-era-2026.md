@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["教育"]
 tags: ["高考", "志愿填报", "AI", "专业选择", "就业"]
-author: "教育新知"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI时代，哪些专业会被替代，哪些专业会升值？本文从就业市场数据出发，为2026年高考生提供专业选择建议。"
 ---
 

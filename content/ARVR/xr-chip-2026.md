@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["XR芯片", "高通骁龙XR3", "苹果R2", "空间计算芯片", "联发科", "三星Exynos XR"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "XR头显的性能天花板，很大程度上由芯片决定。2026年，高通骁龙XR3和苹果R2两大旗舰XR芯片的竞争，正在重塑整个XR行业的技术格局。与此同时，联发科和三星也在加速入局，XR芯片市场即将进入'三国时代'。"
 ---
 

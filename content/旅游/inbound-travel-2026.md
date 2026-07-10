@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["入境游", "China Travel", "免签政策", "过境免签", "旅游复苏", "2026趋势"]
 categories: ["旅游"]
-author: "旅游观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国入境游市场强劲复苏，144小时过境免签政策扩展至54个国家，China Travel成为全球社交媒体热词。本文深度分析中国入境游的2026年复苏态势、政策红利和产业机遇。"
 ---
 

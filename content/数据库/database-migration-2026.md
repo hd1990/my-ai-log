@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["数据库迁移", "Oracle", "PostgreSQL", "去O", "MySQL", "数据库兼容性", "迁移工具"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年数据库迁移浪潮加速，Oracle到PostgreSQL的迁移成为全球趋势。本文从迁移策略、技术挑战、工具生态和实际案例四个维度，深度分析企业级数据库迁移的完整实践方法论。"
 ---
 

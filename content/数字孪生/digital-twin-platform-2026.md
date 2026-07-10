@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数字孪生"]
 tags: ["数字孪生", "GE Predix", "西门子Xcelerator", "工业互联网", "工业软件", "平台生态", "Digital Twin Platform"]
-author: "数字孪生观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年数字孪生平台市场进入生态竞争阶段，GE Predix的涅槃重生和西门子Xcelerator的全面扩张代表了两条截然不同的路径。本文从平台架构、生态策略、行业覆盖三个维度进行深度对比分析。"
 ---
 

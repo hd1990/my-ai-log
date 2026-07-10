@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["加密监管", "加密货币监管", "MiCA", "SEC", "合规", "加密政策", "CBDC", "反洗钱"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球加密监管框架正在成型，EU MiCA全面实施，美国稳定币法案在国会推进，香港和新加坡继续完善加密监管。深度解析2026年全球加密监管的格局、趋势和影响。"
 slug: "crypto-regulation-2026"
 ---

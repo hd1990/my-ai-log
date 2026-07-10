@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["宏观经济"]
 tags: ["人民币国际化", "SWIFT", "CIPS", "跨境结算", "一带一路", "数字货币"]
-author: "宏观分析师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年人民币在SWIFT支付份额突破4.5%，CIPS日均处理超过5000亿元。本文从数据和趋势出发，分析人民币国际化的进展、驱动力和瓶颈。"
 ---
 

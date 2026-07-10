@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["可穿戴"]
 tags: ["智能戒指", "三星Galaxy Ring", "Oura Ring", "健康监测", "可穿戴设备", "睡眠追踪"]
-author: "可穿戴观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "智能戒指正在成为智能手表之外最重要的健康可穿戴设备。2026年，三星Galaxy Ring 2和Oura Ring 4展开了正面竞争，出货量突破500万枚。相比手表，戒指更轻、更无感、更适合睡眠监测。这个新兴品类正在快速成长。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["地理"]
 tags: ["GIS", "AI", "地理信息系统", "空间分析", "机器学习", "ESRI"]
-author: "地理探索者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI正在重塑地理信息系统（GIS）的每一个环节——从数据采集到空间分析，从地图制图到决策支持。本文深入探讨GIS+AI融合的技术路线、核心应用和未来趋势。"
 ---
 

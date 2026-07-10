@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["深度学习"]
 tags: ["世界模型", "World Model", "物理理解", "JEPA", "Sora", "具身智能", "2026趋势"]
-author: "深度学习研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年世界模型成为AI研究的前沿方向，从视频生成（Sora）到机器人控制，从天气预报到科学发现，AI开始学习物理世界的因果规律和直观物理。"
 ---
 

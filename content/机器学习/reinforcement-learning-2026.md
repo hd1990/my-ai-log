@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器学习"]
 tags: ["强化学习", "RL", "工业控制", "RLHF", "决策AI", "机器人", "2026趋势"]
-author: "ML工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年强化学习从游戏和学术走向工业控制、自动驾驶和机器人等实体世界场景，RLHF技术持续进化，离线RL和基于模型的RL成为实用化关键技术。"
 ---
 

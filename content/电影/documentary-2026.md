@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["纪录片", "流媒体", "Netflix", "BBC", "自然纪录片", "真实犯罪"]
 categories: ["电影"]
-author: "电影观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年纪录片正在经历流媒体时代的黄金期，从Netflix到B站，纪录片内容消费爆发式增长。本文分析全球纪录片市场的最新趋势和商业逻辑。"
 ---
 

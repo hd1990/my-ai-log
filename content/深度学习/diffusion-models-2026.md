@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["深度学习"]
 tags: ["扩散模型", "Diffusion Model", "图像生成", "视频生成", "Sora", "Stable Diffusion", "2026趋势"]
-author: "深度学习研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年扩散模型从图像生成全面扩展到视频、3D和音频领域，Sora 2.0引领视频生成商业化，Stable Diffusion 4驱动创意产业变革，推理效率提升100倍。"
 ---
 

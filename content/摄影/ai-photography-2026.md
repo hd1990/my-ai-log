@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["摄影"]
 tags: ["AI摄影", "生成式AI", "AI修图", "AI生成图像", "摄影伦理", "2026趋势"]
-author: "摄影爱好者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，生成式AI正在从根本上改变摄影的定义和边界。从AI生成照片到AI修图，从AI视频到AI图像鉴别，摄影行业正面临前所未有的机遇和挑战。本文深度分析AI摄影的2026年现状和未来趋势。"
 ---
 

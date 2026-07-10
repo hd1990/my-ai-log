@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["边缘AI", "端侧推理", "AI芯片", "NPU", "手机AI"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年边缘AI芯片市场爆发，从手机到汽车，从IoT到机器人，端侧AI推理正在成为标配。本文深度解析边缘AI芯片的技术路线、产品格局和产业趋势。"
 ---
 

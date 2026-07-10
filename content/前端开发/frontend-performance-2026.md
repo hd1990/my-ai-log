@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["前端开发"]
 tags: ["性能优化", "Core Web Vitals", "INP", "LCP", "CLS", "Web性能", "用户体验", "前端"]
-author: "前端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Google将INP（Interaction to Next Paint）正式纳入Core Web Vitals，替代FID成为交互性核心指标。本文从性能度量体系、构建优化、运行时优化和监控体系四个维度，深度解读现代前端性能优化的最佳实践。"
 ---
 

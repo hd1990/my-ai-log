@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["Python 4.0", "GIL", "Python", "并发", "性能", "JIT", "子解释器", "编程语言"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Python 4.0在2026年正式发布，GIL（全局解释器锁）的可选移除、JIT编译器的集成和子解释器的成熟，让Python真正拥抱了多核并行。本文从GIL移除、JIT编译、子解释器和性能基准四个维度，深度分析Python 4.0的革命性变化。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器学习"]
 tags: ["时序预测", "时间序列", "Transformer", "PatchTST", "TimesFM", "时序基础模型", "2026趋势"]
-author: "ML工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年深度学习彻底改变了时间序列预测领域，Transformer架构、时序基础模型和概率预测成为主流，在能源、零售和金融领域实现了前所未有的预测精度。"
 ---
 

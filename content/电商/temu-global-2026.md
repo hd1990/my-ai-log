@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["电商"]
 tags: ["Temu", "拼多多", "跨境电商", "出海", "全球化", "PDD"]
-author: "电商观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Temu自2022年9月上线以来，已进入全球70多个市场，2026年GMV预计突破800亿美元。本文回顾Temu两年多的全球化历程，深度分析其商业模式、竞争策略和面临的挑战。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["心理"]
 tags: ["心理健康", "AI心理咨询", "Woebot", "Wysa", "数字疗法", "心理咨询"]
-author: "心理咨询师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI心理咨询市场规模预计突破35亿美元，但技术永远无法替代人类治疗师的共情。本文从数据出发，分析AI心理咨询的真实能力与边界。"
 ---
 

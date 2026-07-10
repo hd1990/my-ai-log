@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["写作"]
 tags: ["AI写作", "Claude", "ChatGPT", "DeepSeek", "评测"]
-author: "写作工坊"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI写作工具哪家强？本文从文章质量、创意能力、中文表现和价格四个维度，深度评测Claude、ChatGPT和DeepSeek。"
 ---
 

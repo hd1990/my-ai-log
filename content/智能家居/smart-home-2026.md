@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["智能家居"]
 tags: ["智能家居", "Matter", "Thread", "Apple Home", "Google Home", "Alexa", "生态互联"]
-author: "智能家居观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Matter标准在2026年终于兑现了'跨品牌互联互通'的承诺。超过5000款Matter认证设备上市，苹果、谷歌、亚马逊、三星的智能家居平台实现真正互通。但碎片化问题真的解决了吗？本文从设备生态、用户体验和能源管理三个维度分析。"
 ---
 

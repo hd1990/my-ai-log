@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI视频", "Sora", "可灵", "Runway", "评测"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Sora、Runway Gen-4、可灵、Pika 2.0——2026年四大AI视频生成工具横向评测。从画质、一致性、价格三个维度告诉你谁最好用。"
 ---
 

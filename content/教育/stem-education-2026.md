@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["教育"]
 tags: ["STEM教育", "编程", "机器人", "少儿编程", "STEAM", "科技教育", "创客", "VEX", "乐高"]
-author: "教育新知"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球STEM教育市场突破800亿美元，中国少儿编程用户超过5000万。本文分析STEM教育的新趋势、编程教育的AI化、机器人竞赛生态和2026年的教育实践。"
 ---
 

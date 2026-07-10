@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["商业航天"]
 tags: ["商业航天", "太空资源", "小行星采矿", "月球", "太空经济"]
-author: "航天观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "太空资源开发从科幻走向资本议题。2026年AstroForge首次深空采矿演示飞行，月球南极水资源勘探白热化，太空资源权立法成为国际博弈焦点。"
 ---
 

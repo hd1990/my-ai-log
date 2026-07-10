@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["供应链安全", "软件供应链", "SBOM", "SLSA", "开源安全", "SolarWinds", "依赖管理", "CI/CD安全"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年软件供应链攻击同比增长200%，每10家企业就有6家遭受过供应链攻击。从SBOM到SLSA框架，从依赖管理到CI/CD安全，深度解析软件供应链安全的攻防态势和最佳实践。"
 slug: "supply-chain-security-2026"
 ---

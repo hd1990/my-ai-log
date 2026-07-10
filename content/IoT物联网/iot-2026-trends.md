@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["物联网", "IoT", "AIoT", "边缘计算", "5G", "Matter", "智能家居", "工业物联网"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球IoT连接数突破400亿，AIoT成为核心趋势。从AI赋能设备到边缘智能，从Matter标准统一到5G RedCap，从数字孪生到物联网安全，深度解析2026年物联网产业的五大变革趋势。"
 slug: "iot-2026-trends"
 ---

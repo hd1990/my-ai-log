@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["DevOps"]
 tags: ["持续部署", "CD", "持续验证", "渐进式交付", "金丝雀发布", "蓝绿部署", "Feature Flag", "GitOps"]
-author: "DevOps工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年持续部署正在从CD向持续验证演进，金丝雀发布、蓝绿部署和渐进式交付成为主流。从Argo Rollouts到Feature Flag，深度解析2026年持续部署的技术演进、实践模式和未来趋势。"
 slug: "continuous-deployment-2026"
 ---

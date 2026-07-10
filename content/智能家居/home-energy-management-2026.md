@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["智能家居"]
 tags: ["家庭能源", "太阳能", "储能", "虚拟电厂", "V2G", "智能电网", "碳中和"]
-author: "智能家居观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，家庭能源管理正在从'省电费'走向'虚拟电厂'。特斯拉Powerwall 3、华为FusionSolar和Enphase等家庭光储系统，通过AI优化和电网互动，让家庭从'电力消费者'变成'电力产销者'。本文分析家庭能源管理的技术、市场和商业模式。"
 ---
 

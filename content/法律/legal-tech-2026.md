@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["法律"]
 tags: ["法律科技", "AI律师", "法律AI", "LegalTech", "智能合同", "AI法律", "法律服务", "律师"]
-author: "法律观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球法律科技市场突破350亿美元，AI正在重塑法律行业。本文分析AI律师的能力边界、法律科技产品生态和律师行业的变革。"
 ---
 

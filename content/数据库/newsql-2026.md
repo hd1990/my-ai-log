@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["NewSQL", "CockroachDB", "YugabyteDB", "分布式数据库", "TiDB", "Spanner", "云原生数据库"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年NewSQL数据库在云原生和全球化部署场景中迎来了全面成熟。CockroachDB 25.1和YugabyteDB 3.0的发布、TiDB的持续进化以及Google Spanner的竞争，正在重塑分布式关系型数据库的格局。本文深度分析NewSQL的技术演进和选型实践。"
 ---
 

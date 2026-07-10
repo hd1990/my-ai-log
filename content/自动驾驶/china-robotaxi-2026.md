@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["自动驾驶"]
 tags: ["Robotaxi", "百度Apollo", "滴滴", "小马智行", "自动驾驶", "中国出行"]
-author: "自动驾驶观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "中国是全球最大的Robotaxi试验场。2026年，百度Apollo Go已在10城运营，车队超3000辆；滴滴自动驾驶重返赛道，携5亿用户入场。政策支持、成本优势、激烈竞争——中国Robotaxi市场正在经历爆发前夜。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["深度学习"]
 tags: ["Transformer", "状态空间模型", "Mamba", "Mamba-2", "SSM", "深度学习架构"]
-author: "深度学习研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年状态空间模型（SSM）和Mamba架构正在挑战Transformer的统治地位，线性复杂度使其在超长序列处理上具有天然优势，混合架构正在成为下一代基础模型的新范式。"
 ---
 

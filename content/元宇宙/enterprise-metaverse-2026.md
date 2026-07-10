@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["元宇宙"]
 tags: ["企业元宇宙", "数字孪生", "远程协作", "工业元宇宙", "数字孪生", "Microsoft Mesh", "NVIDIA Omniverse", "Spatial"]
-author: "元宇宙观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年企业元宇宙正在从'PPT概念'走向'生产级应用'。数字孪生驱动的工业元宇宙和空间计算赋能的远程协作是企业元宇宙的两大核心场景。本文分析Microsoft Mesh、NVIDIA Omniverse等平台的最新进展以及企业元宇宙的商业模式。"
 ---
 

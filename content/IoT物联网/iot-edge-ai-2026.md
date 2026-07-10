@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["物联网AI", "TinyML", "边缘智能", "边缘AI", "MCU AI", "AIoT", "AI芯片"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI正在从云端下沉到IoT设备端。TinyML（微控制器上的机器学习）让AI可以在1美元的MCU上运行，边缘AI芯片让摄像头和网关具备本地智能。物联网AI（AIoT）正在从'云端AI'走向'端-边-云协同AI'，重新定义物联网的智能边界。"
 ---
 

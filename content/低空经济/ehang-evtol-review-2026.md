@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["低空经济"]
 tags: ["eVTOL", "亿航", "飞行汽车", "空中交通", "实测"]
-author: "低空观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "亿航EH216-S在深圳、广州开通空中观光航线，票价398元。本文从体验、安全、成本三个维度分析飞行汽车的现状和前景。"
 ---
 

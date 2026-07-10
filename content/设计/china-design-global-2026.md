@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["设计"]
 tags: ["设计出海", "中国设计师", "全球化", "Dribbble", "Behance", "设计趋势"]
-author: "设计观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，中国设计师在全球设计舞台上的影响力正在快速提升。从Behance热门作品到国际设计大奖，从SaaS产品设计到品牌出海，本文深度分析中国设计出海的现状、机遇与挑战。"
 ---
 

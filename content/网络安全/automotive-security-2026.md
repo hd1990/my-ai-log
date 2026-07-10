@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["车联网安全", "智能汽车安全", "V2X", "汽车网络安全", "ISO 21434", "自动驾驶安全", "OTA安全"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球智能网联汽车保有量突破5亿辆，车联网安全市场突破150亿美元。从远程攻击到V2X通信安全，从ISO 21434到UN R155法规，深度解析智能汽车面临的网络威胁和安全防护体系。"
 slug: "automotive-security-2026"
 ---

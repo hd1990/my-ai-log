@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["AI网络", "InfiniBand", "Ultra Ethernet", "RDMA", "算力互联"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI大模型训练对网络提出了极致要求。2026年InfiniBand和Ultra Ethernet的竞争进入白热化，网络正在成为AI算力的关键瓶颈。本文深度解析AI网络的技术演进和产业格局。"
 ---
 

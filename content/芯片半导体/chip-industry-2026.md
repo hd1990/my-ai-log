@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["芯片半导体"]
 tags: ["AI芯片", "半导体", "NVIDIA", "台积电", "芯片产业", "2026趋势"]
-author: "芯片观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球半导体产业正经历AI芯片驱动的结构性变革，NVIDIA、AMD、Intel三强争霸，台积电先进制程一骑绝尘，中国芯片产业在封锁中加速突围。"
 ---
 

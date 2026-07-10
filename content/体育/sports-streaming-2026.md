@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["体育流媒体", "体育版权", "OTT", "体育直播", "Amazon Prime", "体育产业"]
 categories: ["体育"]
-author: "体育观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年体育流媒体市场正在经历剧烈变革，体育版权从传统电视向流媒体平台大规模迁移。本文深度分析全球体育流媒体市场的竞争格局和商业模式创新。"
 ---
 

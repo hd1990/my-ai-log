@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["电商"]
 tags: ["跨境电商", "Shein", "Temu", "TikTok Shop", "SHEIN IPO", "拼多多", "跨境电商物流", "出海"]
-author: "电商观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国跨境电商进出口总额突破3.5万亿元，Shein完成IPO、Temu全球GMV突破5000亿元、TikTok Shop全球GMV突破3000亿元。三巨头在全球市场展开激烈竞争，供应链和物流是核心壁垒。"
 ---
 

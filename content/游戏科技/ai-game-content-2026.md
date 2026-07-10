@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["游戏科技"]
 tags: ["AI", "游戏开发", "程序化生成", "NPC", "大语言模型", "Stable Diffusion", "游戏设计", "AIGC"]
-author: "游戏技术观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI生成游戏内容（AIGC）已经从实验阶段进入生产阶段。从NPC对话、关卡设计到3D资产生成，AI正在重塑游戏开发的每一个环节。本文介绍最新的AI游戏生成技术、工具链和行业实践。"
 ---
 

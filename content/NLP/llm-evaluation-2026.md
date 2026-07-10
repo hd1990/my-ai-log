@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["AI评估", "LLM评测", "基准测试", "MMLU", "HumanEval", "模型评估", "2026趋势"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年LLM评估体系经历深刻变革，从静态基准到动态对抗评估，从单一指标到多维度能力画像，AI评估工具和平台成为模型选型和治理的关键基础设施。"
 ---
 

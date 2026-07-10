@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["全息显示", "光场显示", "全息技术", "3D显示", "Looking Glass", "全息投影"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "全息显示和光场技术一直是科幻电影中的标配。2026年，这些技术正在从实验室走向商业化——Looking Glass发布新一代光场显示器，全息光学元件（HOE）开始应用于AR眼镜，但真正的'全息投影'离消费者还有多远？"
 ---
 

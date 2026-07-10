@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["企业服务"]
 tags: ["企业数字化", "数字化转型", "信息化", "智能化", "AI Agent", "企业软件", "数字化战略", "2026趋势"]
-author: "企服观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国企业数字化正在经历从'信息化'到'智能化'的范式跃迁。AI Agent正在重构企业软件架构，数据中台走向AI中台，传统ERP和CRM正在被智能体重新定义。"
 ---
 

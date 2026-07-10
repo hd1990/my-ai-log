@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["多语言NLP", "机器翻译", "跨语言", "低资源语言", "NLLB", "多语言模型"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年多语言NLP技术已实现200+语言的高质量翻译和理解，低资源语言的AI能力大幅提升，多语言大模型正在打破全球信息流通的语言壁垒，但也面临文化保护的挑战。"
 ---
 

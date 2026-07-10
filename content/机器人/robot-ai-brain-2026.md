@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器人"]
 tags: ["具身智能", "VLA模型", "机器人AI", "视觉语言动作", "RT-2", "Google DeepMind"]
-author: "机器人观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，VLA（视觉-语言-动作）模型正在成为机器人的'AI大脑'。Google DeepMind的RT-2-X、Figure的Helix、清华的UniPi——这些模型让机器人从'编程执行'进化到'理解推理'。具身智能是2026年AI领域最热门的赛道之一。"
 ---
 

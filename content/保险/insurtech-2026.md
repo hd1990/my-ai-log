@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["保险"]
 tags: ["保险科技", "AI理赔", "个性化定价", "UBI保险", "InsurTech", "数字化转型"]
-author: "保险分析师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年保险科技正在从概念走向落地。AI理赔将车险定损时间从3天缩短至30分钟，个性化定价让健康险保费更精准，UBI车险用户突破5000万。本文深度分析保险科技三大核心应用场景。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["银行科技"]
 tags: ["监管科技", "RegTech", "合规自动化", "反洗钱", "AI合规"]
-author: "银行科技观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，中国金融监管科技市场规模突破500亿元。AI大模型在反洗钱、KYC、监管报告、合规审查等场景中大幅提升效率，银行的合规成本正在经历结构性下降。"
 ---
 

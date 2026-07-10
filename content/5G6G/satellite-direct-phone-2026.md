@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["5G6G"]
 tags: ["卫星通信", "直连手机", "AST SpaceMobile", "星链", "华为天通", "T-Mobile"]
-author: "通信观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，卫星直连手机服务从应急通信走向日常使用。AST SpaceMobile的卫星宽带已在美国商用，SpaceX星链Direct to Cell服务覆盖30国，华为天通卫星通话用户突破500万。普通手机直接连接卫星，正在变成现实。"
 ---
 

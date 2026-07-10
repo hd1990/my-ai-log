@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["企业服务"]
 tags: ["HR Tech", "AI招聘", "人力资源管理", "AI面试", "员工管理", "HR SaaS", "2026趋势"]
-author: "企服观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI正在深刻重塑人力资源管理——从简历筛选到AI面试，从员工培训到离职预测。本文分析AI在HR Tech领域的核心应用场景、代表产品和市场格局。"
 ---
 

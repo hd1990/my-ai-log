@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["iOS 20", "Swift 6", "Apple", "Vision Pro", "Xcode", "SwiftUI", "visionOS"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "iOS 20和Swift 6在2026年WWDC上发布，带来了Apple Intelligence的全面开放、Vision Pro生态的成熟和Swift 6的并发革命。本文深度分析苹果开发生态在2026年的三大核心变化。"
 ---
 

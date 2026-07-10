@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["音乐产业", "AI作曲", "虚拟偶像", "数字音乐", "产业分析"]
 categories: ["音乐"]
-author: "音乐观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI作曲已经从辅助工具变成主流生产方式，虚拟偶像的市场规模突破400亿。本文用数据解析音乐产业的AI革命。"
 ---
 

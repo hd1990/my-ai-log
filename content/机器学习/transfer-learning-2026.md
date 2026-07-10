@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["机器学习"]
 tags: ["迁移学习", "预训练", "微调", "LoRA", "Prompt Tuning", "Adapter", "基础模型", "2026趋势"]
-author: "ML工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年迁移学习进入预训练与微调的新范式，参数高效微调（PEFT）成为主流，指令微调和RLHF重塑模型能力，跨模态迁移和多任务学习取得突破。"
 ---
 

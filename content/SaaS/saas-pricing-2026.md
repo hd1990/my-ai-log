@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["SaaS定价", "订阅制", "用量计费", "Usage-Based Pricing", "PLG", "SaaS商业模式", "定价策略", "AI SaaS"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年SaaS定价正在经历从传统订阅制到用量计费（Usage-Based Pricing）的范式转移。AI SaaS的兴起加速了这一转变。本文分析用量计费的崛起、挑战和最佳实践，以及2026年SaaS定价的最新趋势。"
 ---
 

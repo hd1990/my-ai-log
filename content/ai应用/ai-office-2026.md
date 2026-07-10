@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI办公", "Notion AI", "Microsoft Copilot", "办公自动化", "知识管理"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI办公市场规模突破600亿美元，Notion AI、Microsoft 365 Copilot、Google Workspace AI等产品正在重新定义'工作'。本文深度评测主流AI办公工具，分析AI对办公效率的真实提升。"
 ---
 

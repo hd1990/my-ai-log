@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["AI数据中心", "液冷", "绿色算力", "PUE", "东数西算"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI数据中心正在经历一场基础设施革命。从风冷到液冷，从PUE 1.5到1.15，从东部集中到东数西算。本文全面解析AI数据中心的2026年新格局。"
 ---
 

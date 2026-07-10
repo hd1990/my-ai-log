@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["商业航天"]
 tags: ["商业航天", "SpaceX", "星舰", "火箭", "太空旅游"]
-author: "航天观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年商业航天进入常态化运营。SpaceX星舰执行月球任务，中国商业火箭密集发射，太空旅游票价降至20万美元。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["深度学习", "PyTorch", "JAX", "TensorFlow", "框架对比"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年深度学习框架格局已定：PyTorch主导研究和应用开发，JAX在大规模训练中崛起。本文对比主流框架，提供从入门到实战的完整指南。"
 ---
 

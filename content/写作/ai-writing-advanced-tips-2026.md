@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["写作"]
 tags: ["AI写作", "Prompt", "技巧", "写作方法", "进阶"]
-author: "写作工坊"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI能帮你写，但写得好不好取决于你的Prompt技巧。本文分享10个让AI写作质量提升一个台阶的高级技巧。"
 ---
 

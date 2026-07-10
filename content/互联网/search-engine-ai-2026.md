@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["互联网"]
 tags: ["AI搜索", "搜索引擎", "信息获取", "Perplexity", "AI搜索优化"]
-author: "互联网风向标"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI搜索正在从根本上改变人们获取信息的方式。从'十个蓝色链接'到'AI直接回答'，搜索引擎正在经历十年来最大的变革。"
 ---
 

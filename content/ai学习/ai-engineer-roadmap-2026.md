@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["AI工程师", "学习路径", "技术成长", "软件工程", "AI开发"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI工程师的需求量飙升，但技能要求也发生了根本性变化。本文提供从初级到高级AI工程师的完整学习路径，涵盖必要技能、学习资源和实战项目。"
 ---
 

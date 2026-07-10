@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["勒索软件", "Ransomware", "AI安全", "RaaS", "勒索软件即服务", "双重勒索", "数据恢复", "网络犯罪"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球勒索软件攻击同比增长45%，AI技术被用于自动化攻击和逃避检测，勒索软件即服务（RaaS）模式日趋成熟。从AI驱动的攻击到防御策略，深度解析勒索软件的新形态和应对之道。"
 slug: "ransomware-2026"
 ---

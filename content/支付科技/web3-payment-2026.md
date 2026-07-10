@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["支付科技"]
 tags: ["Web3", "稳定币", "加密货币", "区块链支付", "DeFi"]
-author: "支付观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，全球稳定币市值突破3,000亿美元，加密货币支付在合规化框架下加速渗透。USDC、USDT、PYUSD等合规稳定币以及数字人民币，正在成为跨境支付和Web3经济的重要基础设施。"
 ---
 

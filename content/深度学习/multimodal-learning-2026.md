@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["深度学习"]
 tags: ["多模态学习", "视觉语言模型", "音频处理", "多模态融合", "GPT-5", "Gemini"]
-author: "深度学习研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年多模态学习已从「视觉+语言」扩展到「视觉+语言+音频+视频+3D」的全模态融合，GPT-5、Gemini 3等顶级模型都是原生多模态架构，正在重新定义AI的感知和理解边界。"
 ---
 

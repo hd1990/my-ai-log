@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["长文本", "长上下文", "上下文窗口", "注意力机制", "Ring Attention", "文档理解", "2026趋势"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年百万Token上下文窗口成为大模型的标配，Ring Attention和稀疏注意力技术使长文本处理实用化，代码仓库理解和长文档分析应用爆发。"
 ---
 

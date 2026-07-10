@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["RISC-V", "AI芯片", "开源指令集", "芯片架构", "国产芯片"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "RISC-V在AI芯片领域正在从边缘向中心渗透。2026年RISC-V AI芯片出货量突破50亿颗，在IoT、边缘AI和部分推理场景中展现强劲竞争力。"
 ---
 

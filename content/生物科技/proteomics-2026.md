@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["生物科技"]
 tags: ["蛋白质组学", "AlphaFold", "蛋白质结构预测", "AI蛋白质设计", "David Baker", "质谱", "DeepMind"]
-author: "生物观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，蛋白质组学进入了'后AlphaFold时代'。AlphaFold3能预测蛋白质与所有生物分子的相互作用，AI蛋白质设计从概念走向现实，蛋白质组学正从'发现'走向'设计'。"
 ---
 

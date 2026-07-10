@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["后端开发"]
 tags: ["微服务", "Serverless", "Monolith", "Modular Monolith", "架构", "Event-Driven", "Kubernetes"]
-author: "后端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年后端架构正在从单纯的微服务狂热走向理性混合架构。Modular Monolith、Serverless、Event-Driven和微服务的组合拳，正在成为新一代企业级应用的标准架构。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["深度学习"]
 tags: ["MoE", "混合专家", "稀疏模型", "Mixtral", "DeepSeek", "高效推理", "2026趋势"]
-author: "深度学习研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年MoE架构从大模型的可选方案变成主流选择，DeepSeek、Mixtral和GPT-5等顶流模型广泛采用MoE，稀疏激活实现万亿参数模型的实用化部署。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["5G6G"]
 tags: ["5G广播", "5G组播", "应急通信", "中国广电", "eMBMS", "FeMBMS", "公共安全"]
-author: "通信观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，5G广播（5G Broadcast）技术从标准走向应用。中国广电作为第四大运营商，正在将5G广播打造为差异化竞争力——应急预警、公共信息、赛事直播等场景展现了5G广播的独特价值。欧洲也在推动5G广播作为地面数字电视的补充。"
 ---
 

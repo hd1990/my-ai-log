@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["AI入门", "学习路径", "Python", "机器学习", "教程"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI学习路径已经和两年前完全不同。本文提供一套从零基础到能独立完成AI项目的学习路线图，含资源推荐和避坑指南。"
 ---
 

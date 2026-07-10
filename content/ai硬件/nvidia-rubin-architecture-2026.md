@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai硬件"]
 tags: ["NVIDIA", "Rubin", "AI芯片", "GPU", "Blackwell"]
-author: "硅基硬件站"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "NVIDIA Rubin架构接棒Blackwell，采用台积电3nm工艺。本文从架构、性能、能效和竞争格局四个维度深度解析下一代AI芯片。"
 ---
 

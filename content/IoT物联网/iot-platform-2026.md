@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["物联网平台", "AWS IoT", "阿里云IoT", "华为云IoT", "云平台", "物联网操作系统"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，物联网平台从'连接管理'工具进化为'数据智能'平台。AWS IoT、阿里云IoT、华为云IoT三强争霸，Azure IoT调整策略。本文深度对比四大云平台在物联网领域的技术架构、产品能力和市场策略，分析物联网平台的核心竞争力和未来趋势。"
 ---
 

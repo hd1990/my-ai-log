@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["FinOps", "云成本优化", "AWS", "Azure", "多云管理", "成本治理", "云原生"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球企业云浪费预计超过500亿美元。本文从FinOps的三大阶段（Inform、Optimize、Operate）出发，结合真实案例，为企业提供一套可落地的云成本优化方法论。"
 slug: "finops-cloud-2026"
 ---

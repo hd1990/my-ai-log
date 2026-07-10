@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["Carbon", "Google", "C++", "编程语言", "系统编程", "Rust", "Cpp2"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Carbon语言在2026年达到了1.0里程碑，作为Google主导的C++替代者，它选择了与Rust完全不同的路径——渐进式迁移而非重写。本文从语言设计、与C++的互操作、生态进展和竞争格局四个维度，深度分析Carbon语言的最新进展。"
 ---
 

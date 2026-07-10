@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["企业服务"]
 tags: ["法务科技", "Legal Tech", "合同管理", "电子签章", "AI合同", "智能法务", "CLM", "电子签名"]
-author: "企服观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年法务科技（Legal Tech）正在从'工具'升级为'智能体'。AI合同审查自主完成合同分析，电子签章从'签字工具'变成'法律数字化基础设施'，智能法务正在重构企业法务工作流。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["基金投资"]
 tags: ["FOF", "基金中的基金", "资产配置", "养老FOF", "基金投顾"]
-author: "基金研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年FOF基金总规模突破3,000亿元，但业绩分化严重。养老FOF受益于个人养老金制度扩容，目标日期FOF和偏债FOF表现稳健。本文从规模、业绩、配置价值三个维度分析FOF基金在2026年的投资价值。"
 ---
 

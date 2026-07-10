@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["智能家居"]
 tags: ["AI助手", "智能音箱", "Alexa+", "Apple homeOS", "Google Gemini", "家庭AI", "Matter"]
-author: "智能家居观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI家庭助手正在经历从'语音遥控器'到'家庭管家'的质变。Amazon Alexa+、Apple homeOS和Google Gemini加持的智能音箱，能够理解上下文、主动服务、管理全家设备。这不再是'听懂指令'，而是'理解你的生活'。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["写作"]
 tags: ["创意写作", "AI写作", "小说创作", "剧本写作", "Claude", "ChatGPT", "Sudowrite", "人机协作"]
-author: "写作工坊"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI在创意写作领域的应用从'猎奇'走向'实用'。小说家使用AI辅助构思情节、生成角色对话、克服写作障碍；编剧使用AI分析剧本结构、预测观众反应。但'AI替代人类作家'的担忧并未成真——2026年的行业共识是：AI是创意工具，而非创意本身。"
 ---
 

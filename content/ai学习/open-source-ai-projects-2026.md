@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["开源AI", "开源项目", "GitHub", "AI社区", "开源贡献"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "参与开源项目是提升AI技能的最佳方式。本文精选2026年最值得参与的10个开源AI项目，覆盖LLM应用、模型训练、AI Agent等领域，附带贡献指南。"
 ---
 

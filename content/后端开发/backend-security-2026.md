@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["后端开发"]
 tags: ["后端安全", "API安全", "OAuth 2.1", "OIDC", "JWT", "零信任", "WebAuthn", "Passkey"]
-author: "后端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年后端安全面临API攻击激增和认证协议升级的双重挑战。OAuth 2.1的正式落地、Passkey的全面普及和API安全网关的成熟，正在重塑后端安全的防护体系。本文从认证协议、API安全和安全架构三个维度深度分析。"
 ---
 

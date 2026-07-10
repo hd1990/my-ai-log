@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["数据可视化", "BI", "AI", "智能洞察", "自然语言查询", "Tableau", "Power BI", "2026趋势"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年数据可视化正经历从静态报表到AI驱动智能洞察的范式转变，自然语言交互、自动化洞察和实时可视化成为核心趋势，AI原生BI工具重塑数据分析体验。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["生物医药"]
 tags: ["双特异性抗体", "双抗", "康方生物", "Ivonescimab", "Cadonilimab", "肿瘤免疫", "信达生物", "泽璟制药"]
-author: "生物医药研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，双特异性抗体从'技术概念'走向'临床主力'。康方生物的Ivonescimab在头对头试验中击败Keytruda，成为全球首个'击败K药'的双抗。中国双抗军团正在改写肿瘤免疫治疗格局。本文深度解析双抗的2026年竞争态势。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["Web3"]
 tags: ["Web3基础设施", "去中心化存储", "去中心化计算", "Filecoin", "Arweave", "IPFS", "Akash", "DePIN"]
-author: "Web3观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Web3基础设施正在从'实验性网络'走向'生产级服务'。去中心化存储在数据可用性和成本上取得突破，去中心化计算在AI推理场景中找到商业价值，DePIN正在重新定义物理基础设施的建设和运营模式。"
 ---
 

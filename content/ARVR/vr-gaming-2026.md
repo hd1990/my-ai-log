@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["VR游戏", "Half-Life Alyx", "Meta Quest", "PSVR2", "VR大作", "游戏开发"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "自2020年Half-Life: Alyx发布以来，VR游戏界一直期待新的'杀手级大作'。2026年，多款重量级VR游戏陆续发布，VR游戏市场终于迎来了一个'大作爆发期'，年收入突破100亿美元大关。"
 ---
 

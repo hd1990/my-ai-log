@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数字孪生"]
 tags: ["数字孪生", "IoT", "物联网", "5G", "实时数据", "边缘计算", "传感器", "数字映射"]
-author: "数字孪生观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年IoT与数字孪生的深度融合正在构建物理世界的实时数字映射。全球300亿IoT连接、5G-Advanced的商用、边缘AI的成熟，正在让'实时数字孪生'从概念变为现实。"
 ---
 

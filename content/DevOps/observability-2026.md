@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["DevOps"]
 tags: ["可观测性", "Observability", "OpenTelemetry", "AIOps", "Grafana", "Datadog", "eBPF", "云原生"]
-author: "DevOps工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年可观测性市场突破500亿美元，OpenTelemetry成为TCP/IP级别的通用标准。从传统监控到AI驱动的洞察，从三大支柱(日志/指标/追踪)到持续剖析和eBPF，深度解析可观测性技术的最新演进。"
 slug: "observability-2026"
 ---

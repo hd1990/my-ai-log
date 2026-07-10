@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["AI安全", "网络攻击", "深度伪造", "AI钓鱼", "勒索软件", "自动化攻击", "网络安全"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI驱动的网络攻击进入新阶段。深度伪造欺诈、AI自动化钓鱼、LLM辅助漏洞挖掘、AI生成恶意软件等新型威胁正在重塑网络安全格局。全球企业因AI攻击造成的损失预计突破500亿美元。"
 slug: "ai-cyber-threats-2026"
 ---

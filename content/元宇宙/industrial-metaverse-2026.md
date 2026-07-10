@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["元宇宙"]
 tags: ["工业元宇宙", "数字孪生", "AR远程协作", "制造业", "B端元宇宙", "NVIDIA Omniverse"]
-author: "元宇宙观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "当消费元宇宙还在寻找杀手级应用时，工业元宇宙已经在培训、远程协作、数字孪生三大场景中创造了可量化的商业价值。2026年工业元宇宙市场规模突破250亿美元。"
 ---
 

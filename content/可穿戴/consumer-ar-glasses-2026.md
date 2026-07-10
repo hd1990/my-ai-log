@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["可穿戴"]
 tags: ["AR眼镜", "增强现实", "Apple Vision Pro", "Meta", "XREAL", "Rokid", "光波导", "MicroLED"]
-author: "可穿戴观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AR眼镜行业经历了从'技术展示'到'消费产品'的跨越。苹果Vision Pro定义了混合现实的高端体验，Meta Quest 4和Ray-Ban Meta智能眼镜探索了AI+AR的轻量化路线，中国厂商（XREAL、Rokid、雷鸟）在消费级AR眼镜市场快速崛起。重量从500克以上降至50克以下，全天候佩戴成为可能。"
 ---
 

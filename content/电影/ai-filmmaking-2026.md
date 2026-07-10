@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["AI", "电影制作", "人工智能", "特效", "编剧"]
 categories: ["电影"]
-author: "电影观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI已经渗透到电影制作的每一个环节——从AI编剧、虚拟制片到AI特效和智能剪辑。本文全面剖析AI如何重塑电影工业。"
 ---
 

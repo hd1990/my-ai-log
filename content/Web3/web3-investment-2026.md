@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["Web3"]
 tags: ["Web3投资", "风险投资", "VC", "加密货币投资", "区块链投资", "融资", "AI+Web3", "DePIN"]
-author: "Web3观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Web3风险投资正在从'概念投资'转向'指标投资'。AI+Web3、DePIN、RWA成为三大投资热点，VC的投资逻辑正在从'投赛道'转向'投产品'。本文基于2026年H1数据深度分析Web3投资趋势。"
 ---
 

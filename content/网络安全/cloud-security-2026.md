@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["云安全", "SaaS安全", "IaaS安全", "责任共担", "CASB", "SSPM", "CNAPP", "云配置错误"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年云安全市场规模突破500亿美元，但云配置错误仍然是数据泄露的第一大原因。深度解析SaaS和IaaS环境下的安全责任共担模型，以及CASB、SSPM和CNAPP等云安全工具的实战应用。"
 slug: "cloud-security-2026"
 ---

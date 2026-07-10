@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["数学基础", "线性代数", "概率论", "微积分", "AI数学"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI需要多少数学？2026年的答案是'够用就行'。本文聚焦AI从业者真正需要的数学知识，用最直观的方式讲解线性代数、概率论和微积分的核心概念。"
 ---
 

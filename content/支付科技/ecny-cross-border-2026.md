@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["支付科技"]
 tags: ["数字人民币", "e-CNY", "跨境支付", "mBridge", "央行数字货币", "CBDC"]
-author: "支付观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，数字人民币跨境支付取得里程碑式突破。mBridge多边央行数字货币桥项目正式落地，数字人民币在跨境贸易、旅游消费、汇款等场景的应用全面展开。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["汽车"]
 tags: ["智能座舱", "AI", "大模型", "车载OS", "HUD", "人机交互"]
-author: "车轮观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，智能座舱从'大屏+语音'时代进入'AI助手+主动服务'时代。大模型上车、AR-HUD、多模态交互和车载OS生态正在重塑车内体验。"
 ---
 

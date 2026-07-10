@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["设计"]
 tags: ["AI设计", "生成式UI", "设计趋势", "Figma", "用户体验", "2026趋势"]
-author: "设计观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI协作设计和生成式UI正在从根本上改变设计师的工作方式。从Figma AI到Vercel v0，从设计系统自动化到个性化界面生成，本文深度解析2026年设计行业五大趋势。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["新能源"]
 tags: ["光伏", "N型电池", "TOPCon", "HJT", "钙钛矿", "叠层电池", "转换效率"]
-author: "新能源观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年光伏行业进入N型时代，TOPCon和HJT市占率突破70%。钙钛矿叠层电池效率突破34%，商用化进程加速。本文从技术路线、成本对比和产能规模三个维度解析光伏产业变革。"
 ---
 

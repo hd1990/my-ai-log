@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["生物科技"]
 tags: ["CRISPR", "基因编辑", "基因疗法", "生物科技", "医疗"]
-author: "生物观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年CRISPR技术从剪切基因进化到碱基编辑和先导编辑。镰刀型细胞病治愈、农业基因编辑商业化——基因编辑的第二次革命正在发生。"
 ---
 

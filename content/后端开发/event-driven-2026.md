@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["后端开发"]
 tags: ["Event-Driven", "Kafka", "Pulsar", "消息队列", "事件驱动", "流处理", "RisingWave", "后端"]
-author: "后端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年事件驱动架构从可选模式变为微服务架构的标配。Kafka 4.0和Pulsar 4.0的发布、流处理引擎的成熟和Event Sourcing的普及，正在重塑企业数据架构。本文深度分析消息中间件、流处理和事件溯源的最新进展。"
 ---
 

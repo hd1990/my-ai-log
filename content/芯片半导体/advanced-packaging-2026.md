@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["芯片半导体"]
 tags: ["先进封装", "Chiplet", "3D封装", "台积电", "CoWoS", "半导体"]
-author: "芯片观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年先进封装技术已成为半导体产业的核心竞争力，Chiplet架构和3D封装正在从'可选方案'变为'必选项'，台积电CoWoS产能一票难求，Intel、三星加速追赶。"
 ---
 

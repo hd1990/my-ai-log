@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["React Native", "Meta", "跨平台", "移动开发", "Fabric", "TurboModules", "JSI"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "React Native新架构（Fabric + TurboModules + JSI）在2026年全面成熟，彻底解决了性能瓶颈。本文从新架构的技术原理、实际性能数据和生态变化三个维度，深度分析React Native在2026年的王者地位。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["SwiftUI", "Jetpack Compose", "声明式UI", "iOS", "Android", "Apple", "Google"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，Apple的SwiftUI和Google的Jetpack Compose都已进入成熟期。本文从API稳定性、性能、生产案例三个维度对比两大平台声明式UI框架的现状与选型建议。"
 ---
 

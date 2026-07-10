@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["游戏订阅", "Xbox Game Pass", "PS Plus", "云游戏", "订阅制", "游戏产业"]
 categories: ["游戏"]
-author: "游戏观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年游戏订阅服务正在重塑游戏产业的商业模式，Xbox Game Pass和PS Plus用户总数突破1.5亿。本文深度分析游戏订阅制的最新格局和发展趋势。"
 ---
 

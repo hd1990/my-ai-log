@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["核能"]
 tags: ["SMR", "小型模块化反应堆", "分布式核能", "NuScale", "玲龙一号", "核电技术", "第四代核电"]
-author: "核能观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，小型模块化反应堆（SMR）从概念设计走向实际建设。中国的'玲龙一号'即将建成，NuScale项目获得美国核管会批准。本文深度解析SMR的技术路线、应用场景和商业化前景。"
 ---
 

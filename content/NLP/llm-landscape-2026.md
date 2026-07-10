@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["大语言模型", "LLM", "开源vs闭源", "GPT-5", "Llama", "Claude", "Gemini"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年大语言模型格局已从「闭源遥遥领先」演变为「开源与闭源并驾齐驱」，Llama 4、Mistral、DeepSeek等开源模型逼近GPT-5水平，模型生态和分发渠道成为新的竞争焦点。"
 ---
 

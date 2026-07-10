@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["NLP"]
 tags: ["小语言模型", "SLM", "边缘AI", "Phi", "Gemma", "量化", "设备端AI", "2026趋势"]
-author: "NLP研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年小语言模型（SLM）在手机、PC和IoT设备上实现实用化部署，Phi-4、Gemma 3和Llama-4-mini在1-8B参数规模上提供接近大模型的能力，边缘AI成为现实。"
 ---
 

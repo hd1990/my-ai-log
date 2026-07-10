@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI编程", "Cursor", "Claude Code", "Copilot", "开发工具"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI编程工具三巨头深度对比：Cursor（IDE）、Claude Code（终端Agent）、GitHub Copilot（生态集成）。从场景、价格、体验三个维度帮你选。"
 ---
 

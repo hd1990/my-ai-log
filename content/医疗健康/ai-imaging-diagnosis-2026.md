@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["医疗健康"]
 tags: ["AI影像诊断", "放射科", "医疗AI", "深度学习", "肺结节筛查", "AI辅助诊断", "医学影像"]
-author: "医疗观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI影像诊断产品在NMPA获批超过120款，中国三甲医院AI辅助诊断覆盖率超过65%。但AI是工具还是替代品？AI读片在基层医疗的价值远超想象。"
 ---
 

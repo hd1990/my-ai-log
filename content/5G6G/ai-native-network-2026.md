@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["5G6G"]
 tags: ["AI原生网络", "通信AI融合", "6G AI", "自智网络", "AI for Network", "Network for AI"]
-author: "通信观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，通信与AI的融合正在从'AI辅助通信'走向'AI原生通信'。自智网络（L4级）在运营商中落地，AI原生的6G网络架构正在定义中。华为、爱立信、诺基亚等设备商将AI融入网络设备，NVIDIA和Intel从计算侧切入。通信AI融合是6G最核心的技术范式之一。"
 ---
 

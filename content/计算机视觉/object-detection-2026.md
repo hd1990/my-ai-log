@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["计算机视觉"]
 tags: ["目标检测", "YOLO", "DETR", "RT-DETR", "YOLOv10", "实时检测", "计算机视觉", "深度学习"]
-author: "CV工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，目标检测领域最引人注目的变化是两大技术路线的融合：YOLO系列从单阶段检测持续进化，DETR系列以端到端Transformer架构实现突破。YOLOv10在速度与精度间取得新平衡，RT-DETR系列则实现了实时DETR推理。本文分析2026年目标检测的技术进展、产业应用和未来方向。"
 ---
 

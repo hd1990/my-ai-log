@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["芯片半导体"]
 tags: ["AI芯片", "GPU", "TPU", "NPU", "LPU", "芯片架构", "NVIDIA", "2026趋势"]
-author: "芯片观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI芯片架构呈现多元化竞争格局，NVIDIA GPU继续主导训练市场，Google TPU、各类NPU和Groq LPU在推理端形成差异化竞争，ASIC时代即将到来。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["Serverless", "函数计算", "AWS Lambda", "Azure Functions", "容器", "云原生", "FaaS"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Serverless计算进入2.0时代，从简单的函数即服务(FaaS)演进为全栈无服务器架构。AWS Lambda、Cloudflare Workers、Vercel等平台的创新实践，以及Serverless在AI推理、边缘计算和实时数据处理中的新应用场景。"
 slug: "serverless-2-2026"
 ---

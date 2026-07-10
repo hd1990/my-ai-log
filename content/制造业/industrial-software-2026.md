@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["制造业"]
 tags: ["工业软件", "CAD", "CAE", "EDA", "PLM", "国产替代", "卡脖子"]
-author: "制造业观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "工业软件被称为'中国制造的最后一块短板'。2026年，在中美科技竞争加剧的背景下，国产工业软件迎来了前所未有的发展机遇。本文深度分析CAD、CAE、EDA三大核心赛道的发展现状与突围路径。"
 ---
 

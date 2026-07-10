@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["DevOps"]
 tags: ["混沌工程", "Chaos Engineering", "韧性工程", "故障注入", "Netflix", "Gremlin", "Steadybit", "可靠性"]
-author: "DevOps工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年混沌工程从Netflix的实践发展为企业级韧性工程的标配。从Chaos Monkey到AI驱动的混沌实验，从基础架构到Kubernetes和AI系统，深度解析混沌工程的演进、工具生态和最佳实践。"
 slug: "chaos-engineering-2026"
 ---

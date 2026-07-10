@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI短剧", "短剧出海", "ReelShort", "DramaBox", "内容出海"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国短剧出海市场规模突破80亿美元，ReelShort和DramaBox领跑全球短剧市场。AI技术正在加速短剧的全球化生产和分发。本文深度解析短剧出海的最新格局。"
 ---
 

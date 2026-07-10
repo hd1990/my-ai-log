@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["IoT物联网"]
 tags: ["LPWAN", "LoRa", "NB-IoT", "LTE-M", "低功耗广域网", "物联网连接", "Semtech"]
-author: "万物互联观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，LPWAN（低功耗广域网）三大技术路线——LoRa、NB-IoT和LTE-M——正在经历各自的演进和融合。全球LPWAN连接数突破50亿，中国主导NB-IoT，欧美偏好LTE-M和LoRa。本文深度分析三大技术的最新进展、应用场景和竞争格局。"
 ---
 

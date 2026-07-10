@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["MLOps", "机器学习", "模型部署", "CI/CD", "模型监控", "AI工程化", "2026趋势"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年MLOps已从概念走向企业级实践，模型生命周期管理、自动化CI/CD和持续监控成为AI工程化的三大支柱，GenAIOps和LLMOps成为新的增长点。"
 ---
 

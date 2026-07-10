@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["企业服务"]
 tags: ["低代码", "无代码", "Low Code", "No Code", "企业应用开发", "公民开发", "AI开发", "应用平台"]
-author: "企服观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年低代码/无代码正在从'专业开发者的辅助工具'走向'业务人员的自主开发平台'。AI的融入正在大幅降低低代码的使用门槛，低代码与AI Agent的结合正在创造新的企业应用范式。"
 ---
 

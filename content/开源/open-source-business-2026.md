@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开源", "开源商业化", "Red Hat", "HashiCorp", "Confluent", "MongoDB", "Open Core", "开源商业模式"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年开源商业化进入深水区。Red Hat年营收突破60亿美元，HashiCorp被IBM收购，Confluent、MongoDB、Databricks等公司探索各自的商业化路径。开源从信仰变成生意，谁是赢家？"
 slug: "open-source-business-2026"
 ---

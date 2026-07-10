@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["健身社交", "Keep", "Strava", "健身App", "运动社区", "社交健身"]
 categories: ["健身"]
-author: "健身达人"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年健身社交正在重塑人们的运动方式，Keep和Strava等平台构建了亿级运动社区。本文深度分析健身社交平台的商业模式、用户行为和文化现象。"
 ---
 

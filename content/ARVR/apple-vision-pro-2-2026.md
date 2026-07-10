@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["Apple Vision Pro", "空间计算", "visionOS", "VR头显", "苹果"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Apple Vision Pro 2预计2026年发布，搭载M5芯片和更轻机身，能否将空间计算从极客玩具推向大众市场？本文从硬件、生态、定价和竞争格局四个维度深度分析。"
 ---
 

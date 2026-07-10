@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["可穿戴"]
 tags: ["可穿戴支付", "智能戒指", "NFC支付", "Apple Pay", "数字人民币", "无感支付", "智能手环"]
-author: "可穿戴观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，可穿戴支付从'锦上添花的功能'变成了'独立的支付方式'。Apple Watch的Apple Pay已经是成熟的支付场景，智能戒指（如Oura、三星Galaxy Ring、McLEAR）成为支付新形态，数字人民币硬件钱包在可穿戴设备上大规模落地。本文分析2026年可穿戴支付的市场格局、技术方案和产业趋势。"
 ---
 

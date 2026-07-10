@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["PostgreSQL", "MySQL", "开源数据库", "MariaDB", "性能对比", "数据库选型", "DBA"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年PostgreSQL和MySQL仍然是开源关系型数据库的两大巨头。本文从性能、生态、云原生、AI特性、社区活力五个维度深度对比，帮助你做出正确的数据库选型决策。"
 ---
 

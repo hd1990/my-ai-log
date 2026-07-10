@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["基金投资"]
 tags: ["REITs", "不动产信托基金", "基础设施", "公募REITs", "分红投资"]
-author: "基金研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "截至2026年6月，中国公募REITs市场已上市50只产品，总市值突破2,000亿元。消费基础设施、保障性租赁住房、新能源等新资产类型不断扩容，REITs正在成为资产配置的新选择。"
 ---
 

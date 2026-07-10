@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["SaaS"]
 tags: ["PLG", "产品驱动增长", "SaaS增长", "增长模型", "Freemium", "自服务", "2026趋势"]
-author: "SaaS观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，PLG已成为全球SaaS增长的主导范式。从Notion到Figma，从飞书到Dify，PLG正在重塑SaaS的获客、激活、转化和扩展模式。本文分析PLG的核心机制、2026年的演进趋势和在中国市场的实践。"
 ---
 

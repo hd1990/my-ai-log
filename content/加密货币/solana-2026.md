@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["加密货币", "Solana", "高性能公链", "DePIN", "Meme", "Firedancer"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Solana在2026年完成了从'宕机链'到'高性能之王'的逆袭。Firedancer客户端上线，DePIN和Meme币生态爆发，Solana的日活跃地址超越以太坊L1，成为最活跃的公链之一。"
 ---
 

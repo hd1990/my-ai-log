@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["计算机视觉"]
 tags: ["视频生成", "AI视频", "Sora", "Runway", "可灵", "创作革命", "AI影视"]
-author: "CV工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI视频生成已经从Sora的惊艳亮相演进为成熟的创作工具，Runway Gen-4、可灵2.0、Pika 2等产品百花齐放，AI正在从辅助工具升级为创作伙伴，视频产业的成本结构和创作范式正在被重塑。"
 ---
 

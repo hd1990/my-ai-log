@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["芯片半导体"]
 tags: ["光刻机", "ASML", "EUV", "High-NA", "半导体设备", "国产光刻机", "2026趋势"]
-author: "芯片观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "ASML的High-NA EUV光刻机在2026年进入量产阶段，每台售价超过4亿美元；与此同时，中国自主研发的光刻机也在艰难突破，28nm浸没式光刻机进入验证阶段。"
 ---
 

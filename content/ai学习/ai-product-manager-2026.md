@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["AI产品经理", "产品设计", "AI UX", "产品管理", "人机交互"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI产品经理成为最热门的新兴岗位，年薪中位数突破60万。本文从AI产品设计的特殊性出发，系统讲解AI产品经理的核心技能、设计方法论和实战案例。"
 ---
 

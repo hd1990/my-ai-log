@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["DePIN", "去中心化物理基础设施", "Web3", "区块链", "Helium", "Filecoin", "Render Network", "通证经济"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年DePIN（去中心化物理基础设施网络）从概念走向大规模落地，Helium、Filecoin、Render Network等项目验证了DePIN的可行性。深度解析DePIN的技术架构、通证经济模型和产业格局。"
 slug: "depin-2026"
 ---

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["后端开发"]
 tags: ["Rust", "Go", "系统编程", "性能优化", "内存安全", "迁移", "AWS", "Discord"]
-author: "后端工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Rust已从「系统编程语言」成长为通用后端开发语言。Discord、AWS、Cloudflare、1Password等公司的Rust迁移案例，以及从Go迁移到Rust的实战经验与成本分析。"
 ---
 

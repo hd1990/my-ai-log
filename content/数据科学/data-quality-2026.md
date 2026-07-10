@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["数据质量", "数据治理", "AI", "数据可观测性", "DataOps", "数据可靠性", "2026趋势"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI大模型的广泛应用使数据质量成为企业AI战略成败的关键因素，数据可观测性、数据合约和AI辅助的数据清洗成为数据治理新范式。"
 ---
 

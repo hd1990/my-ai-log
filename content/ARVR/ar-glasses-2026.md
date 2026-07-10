@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["AR眼镜", "XREAL", "Google Glass", "Meta Ray-Ban", "光波导", "消费级AR"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "从2013年Google Glass的失败到2026年AR眼镜出货量突破500万台，这个品类经历了十多年的曲折发展。2026年，Meta Ray-Ban、XREAL Air系列和多家中国创业公司的产品，正在让AR眼镜从极客玩具变成日常消费品。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["脑科学"]
 tags: ["脑机接口", "BCI", "Neuralink", "BrainCo", "脑控", "消费级", "神经接口", "元宇宙"]
-author: "脑科学研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，脑机接口行业从'科幻'走向'现实'。Neuralink完成第二批人体植入，中国脑机接口企业BrainCo、博睿康在消费级市场发力。但BCI从'医疗设备'到'消费电子'的跨越，远比想象中困难。本文深度解析BCI的2026年格局与消费级前景。"
 ---
 

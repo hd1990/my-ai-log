@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["5G6G"]
 tags: ["5G-Advanced", "5.5G", "3GPP", "RedCap", "无源物联网", "行业专网"]
-author: "通信观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "5G-Advanced（5.5G）在2026年迎来大规模商用部署。AI与5G深度融合、RedCap轻量化终端爆发、无源物联网走向现实——这不是过渡版本，而是5G承诺的真正兑现。三大运营商和设备商正在全面升级。"
 ---
 

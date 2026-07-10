@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["向量数据库", "Pinecone", "Milvus", "Weaviate", "RAG", "Embedding", "AI", "LLM"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年向量数据库三巨头Pinecone、Milvus和Weaviate形成了清晰的市场格局。本文从性能基准、技术架构、生态集成和价格策略四个维度，深度对比三大向量数据库的优劣势和适用场景。"
 ---
 

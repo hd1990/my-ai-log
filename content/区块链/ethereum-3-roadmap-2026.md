@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["以太坊", "Ethereum", "分片", "MEV", "Layer 2", "Rollup", "Danksharding", "区块链扩容"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年以太坊正在向3.0时代迈进。Danksharding、抗MEV机制、Verkle树和单槽终局性等核心升级，将把以太坊的交易处理能力提升至10万+ TPS，同时降低Gas费并改善用户体验。深度解析以太坊3.0路线图。"
 slug: "ethereum-3-roadmap-2026"
 ---

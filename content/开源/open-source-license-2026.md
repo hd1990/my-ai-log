@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["开源许可证", "AGPL", "BSL", "SSPL", "Apache 2.0", "MIT", "开源合规", "许可证争议"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年开源许可证格局正在发生深刻变化，AGPL、BSL和SSPL等非传统许可证的使用率大幅上升。从MongoDB到Redis，从Elastic到HashiCorp，深度解析开源许可证的演进趋势、争议焦点和商业逻辑。"
 slug: "open-source-license-2026"
 ---

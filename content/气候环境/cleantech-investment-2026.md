@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["气候环境"]
 tags: ["气候科技", "CleanTech", "清洁能源投资", "碳捕获", "绿色氢能", "储能", "风险投资"]
-author: "气候观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，全球气候科技（CleanTech）投资进入理性增长期。经历了2021-2023年的爆发和2024-2025年的回调，CleanTech投资在2026年趋于成熟。储能、碳捕获、绿色氢能、核聚变成为四大最热赛道。"
 ---
 

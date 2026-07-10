@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["网络安全"]
 tags: ["SOC", "安全运营中心", "SIEM", "SOAR", "XDR", "AI安全", "安全自动化", "威胁狩猎"]
-author: "安全瞭望员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球SOC市场规模突破800亿美元，AI驱动的安全自动化正在重塑安全运维。从SIEM到XDR，从SOAR到AI SOC分析师，深度解析SOC的技术演进、自动化实践和人才挑战。"
 slug: "soc-automation-2026"
 ---

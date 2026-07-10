@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["企业XR", "工业AR", "VR培训", "数字孪生", "远程协作", "智能制造"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "当消费级XR仍在等待'iPhone时刻'时，企业XR在2026年已经进入了快速增长期。沃尔玛、波音、西门子、强生等全球500强企业正在将VR培训和AR辅助从'试点项目'推向'标准化部署'。企业XR市场在2026年预计达到120亿美元。"
 ---
 

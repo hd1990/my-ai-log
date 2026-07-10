@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["编程语言", "Rust", "Zig", "Go", "Python", "TypeScript", "TIOBE", "系统编程"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年编程语言格局正在发生深刻变化。Rust进入主流，Zig高速增长，Go持续坚挺，Python统治AI，TypeScript称霸全栈。本文基于TIOBE、GitHub、Stack Overflow等数据深度分析编程语言的趋势。"
 ---
 

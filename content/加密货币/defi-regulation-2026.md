@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["DeFi", "合规", "监管", "稳定币", "RWA"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年DeFi进入合规化时代。KYC、RWA（真实世界资产）和合规稳定币正在重塑去中心化金融的格局。"
 ---
 

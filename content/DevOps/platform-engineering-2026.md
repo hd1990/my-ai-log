@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["DevOps"]
 tags: ["Platform Engineering", "DevOps", "内部开发者平台", "IDP", "平台工程", "Backstage", "云原生"]
-author: "DevOps工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Platform Engineering成为DevOps演进的主流方向。Gartner预测80%的大型企业将建立平台工程团队。深度解析内部开发者平台(IDP)的设计原则、技术选型、组织变革和最佳实践。"
 slug: "platform-engineering-2026"
 ---

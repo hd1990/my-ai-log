@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["自动驾驶"]
 tags: ["特斯拉", "FSD", "纯视觉", "端到端", "自动驾驶", "Elon Musk"]
-author: "自动驾驶观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "特斯拉FSD V14在2026年实现了从'辅助驾驶'到'准无人驾驶'的跨越。端到端AI架构、纯视觉方案、Dojo超算——特斯拉的技术路线与传统Robotaxi公司截然不同。本文深入分析FSD V14的技术架构、实测表现和行业影响。"
 ---
 

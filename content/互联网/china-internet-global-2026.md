@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["互联网"]
 tags: ["出海", "Temu", "TikTok", "全球化", "互联网"]
-author: "互联网风向标"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "中国互联网出海进入3.0时代。从工具出海到内容出海，再到AI驱动的全栈出海。本文分析出海新趋势和机会。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["Kotlin", "Kotlin Multiplatform", "KMP", "JetBrains", "跨平台", "Compose Multiplatform", "编程语言"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Kotlin Multiplatform在2026年从实验阶段走向全面成熟，成为跨平台开发的重要力量。Kotlin 2.0编译器、Compose Multiplatform 2.0和KMP生态的爆发，让Kotlin成为真正的全栈语言。本文深度分析Kotlin生态在2026年的全面进化。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI金融", "智能投顾", "风控AI", "金融科技", "量化交易"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI在金融行业的渗透率已超过55%。从智能投顾到信贷风控，从量化交易到反欺诈，AI正在重塑金融服务的每一个环节。本文深度解析AI金融的最新落地实践。"
 ---
 

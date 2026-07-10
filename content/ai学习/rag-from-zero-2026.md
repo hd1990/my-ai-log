@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["RAG", "知识库", "LangChain", "向量数据库", "教程"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "RAG（检索增强生成）是2026年最热门的AI应用开发方向。本文手把手教你用LangChain + Chroma构建一个企业知识库问答系统。"
 ---
 

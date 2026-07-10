@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["计算机视觉"]
 tags: ["视觉SLAM", "VSLAM", "AR", "机器人导航", "ORB-SLAM", "视觉惯性里程计", "定位技术"]
-author: "CV工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，视觉SLAM（同时定位与建图）技术从学术研究全面走向产业落地。Apple Vision Pro和Meta Quest 4的Inside-Out追踪、服务机器人的自主导航、自动驾驶的高精度定位——都依赖视觉SLAM技术。本文分析2026年视觉SLAM的技术路线、硬件方案和产业应用，以及从'几何SLAM'到'语义SLAM'再到'AI SLAM'的进化路径。"
 ---
 

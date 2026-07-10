@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["物理"]
 tags: ["暗物质", "地下实验室", "WIMP", "LUX-ZEPLIN", "PandaX", "粒子物理"]
-author: "物理爱好者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年暗物质直接探测实验进入了新的灵敏区域。LUX-ZEPLIN、XENONnT、PandaX-4T等大型地下实验持续刷新暗物质-核子散射截面的上限，而轴子暗物质实验和宇宙线间接探测也取得了重要进展。"
 ---
 

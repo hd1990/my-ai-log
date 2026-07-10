@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai学习"]
 tags: ["AI竞赛", "Kaggle", "天池", "数据竞赛", "获奖方案"]
-author: "AI学习指南"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI竞赛是检验和提升AI技能的最佳战场。本文深度解析2026年Kaggle和天池大赛的获奖方案，提炼可复用的竞赛技巧和实战经验。"
 ---
 

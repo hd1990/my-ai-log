@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["商业航天"]
 tags: ["商业航天", "遥感", "卫星", "SAR", "无人机"]
-author: "航天观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年商业遥感进入'天地一体化'时代。SAR卫星星座爆发式增长，AI遥感解译成熟，无人机与卫星形成互补——遥感数据从'军品'变成'日用品'。"
 ---
 

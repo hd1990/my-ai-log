@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["职场"]
 tags: ["职场社交", "脉脉", "LinkedIn", "AI", "社交网络", "职业社交", "个人品牌", "招聘"]
-author: "职场观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年职场社交平台正在经历AI化转型。LinkedIn推出AI求职助手，脉脉上线AI职场顾问。本文分析职场社交的AI变革和个人品牌建设策略。"
 ---
 

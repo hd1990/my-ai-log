@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据科学"]
 tags: ["特征存储", "Feature Store", "特征工程", "MLOps", "机器学习", "Feast", "Tecton", "2026趋势"]
-author: "数据科学家"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年特征存储已成为MLOps的核心基础设施，Feast、Tecton和自研方案三足鼎立，在线离线一致性、特征复用和实时特征计算是核心挑战。"
 ---
 

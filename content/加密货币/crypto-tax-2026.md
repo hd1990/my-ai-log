@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["加密货币"]
 tags: ["加密货币", "税收", "税务", "CARF", "FATF", "合规", "加密税务"]
-author: "加密观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球加密资产税收框架加速建立。OECD的CARF框架在50+国家实施，美国IRS强制要求交易所报告交易数据，DeFi税务成为最棘手的难题。加密税收合规成本大幅上升。"
 ---
 

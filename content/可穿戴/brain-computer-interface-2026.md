@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["可穿戴"]
 tags: ["脑机接口", "Neuralink", "Synchron", "BCI", "神经科技", "脑科学"]
-author: "可穿戴观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，脑机接口（BCI）行业正在从Neuralink的'独角戏'走向'群雄竞逐'。Synchron的血管内BCI完成关键临床试验，Paradromics公布首批患者数据，中国脑机接口企业异军突起。技术路线分化、监管加速、伦理争议——BCI正在经历最关键的转折年。"
 ---
 

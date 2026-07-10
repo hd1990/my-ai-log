@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["互联网"]
 tags: ["知识付费", "AI教育", "终身学习", "在线教育", "AI学习"]
-author: "互联网风向标"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年知识付费市场规模突破2000亿元，AI正在重塑知识的生产、分发和消费方式。从AI私教到AI课程生成，终身学习正在进入AI时代。"
 ---
 

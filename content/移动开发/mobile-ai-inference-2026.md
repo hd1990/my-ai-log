@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["AI推理", "LLM", "端侧AI", "NPU", "MediaPipe", "ExecuTorch", "MLX", "移动AI"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年移动端AI推理从实验室走向大规模落地。NPU算力突破50 TOPS、模型量化技术的成熟和端侧推理框架的完善，让手机跑大模型成为现实。本文深度分析移动端AI推理的技术栈、框架选择和实际应用场景。"
 ---
 

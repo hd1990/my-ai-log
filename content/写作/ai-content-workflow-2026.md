@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["写作"]
 tags: ["AI写作", "内容创作", "工作流", "效率", "自媒体"]
-author: "写作工坊"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "内容创作者如何用AI覆盖选题、写作、优化、发布的全流程？本文分享一套经过验证的AI写作工作流，效率提升3-5倍。"
 ---
 

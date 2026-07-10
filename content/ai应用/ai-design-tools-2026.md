@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai应用"]
 tags: ["AI设计", "Midjourney", "DALL-E", "设计工具", "AIGC"]
-author: "AI应用前线"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI设计工具已从'玩具'进化为'生产力工具'。Midjourney V7、DALL-E 4、Canva AI以及国产设计工具正在改变设计师的工作方式和设计行业的商业逻辑。"
 ---
 

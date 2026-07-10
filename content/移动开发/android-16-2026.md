@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["移动开发"]
 tags: ["Android 16", "Google", "Gemini", "AI", "Pixel", "Jetpack Compose", "Kotlin"]
-author: "移动开发者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Android 16在2026年Google I/O上发布，Gemini深度集成、隐私沙盒正式落地和Jetpack Compose全面成熟是三大核心主题。本文深度分析Android 16如何将AI能力融入操作系统每个层面。"
 ---
 

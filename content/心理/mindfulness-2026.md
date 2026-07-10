@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["心理"]
 tags: ["正念", "冥想", "MBSR", "正念减压", "Calm", "Headspace", "正念产业"]
-author: "心理咨询师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球正念冥想市场规模突破120亿美元，从硅谷的科技公司到中国的互联网大厂，正念正在成为主流。本文分析正念的科学证据、产业生态和未来趋势。"
 ---
 

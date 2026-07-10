@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["空间音频", "杜比全景声", "Dolby Atmos", "Apple空间音频", "音频技术", "沉浸式音乐"]
 categories: ["音乐"]
-author: "音乐观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年空间音频正从'小众发烧'走向'大众标配'，杜比全景声和Apple空间音频覆盖全球超过10亿设备。本文分析空间音频的技术演进、市场格局和音乐创作影响。"
 ---
 

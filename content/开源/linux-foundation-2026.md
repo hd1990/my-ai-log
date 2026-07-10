@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["开源"]
 tags: ["Linux基金会", "开源", "CNCF", "LF AI", "OpenSSF", "开源治理", "开源社区"]
-author: "开源布道者"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Linux基金会管理着1000+开源项目，年预算超3亿美元，已成为开源世界的'联合国'。从Kubernetes到AI安全，从OpenSSF到开源标准，深度解析Linux基金会的权力结构和运作机制。"
 slug: "linux-foundation-2026"
 ---

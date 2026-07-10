@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 tags: ["设计系统", "Design System", "大厂设计", "设计规范", "2026趋势"]
 categories: ["设计"]
-author: "设计观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年设计系统从'组件库'进化为'AI驱动的设计基础设施'，Google、Microsoft、阿里、腾讯等大厂的设计系统实践引领行业。本文深度分析设计系统的2026年演进、最佳实践和未来方向。"
 ---
 

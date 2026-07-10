@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ai短剧"]
 tags: ["AI短剧", "短剧制作", "AI视频", "制作流程", "AIGC"]
-author: "短剧观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年AI技术已经渗透到短剧制作的每一个环节。本文从创意到上线，全景展示AI短剧制作的全流程，提供可操作的实战指南。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["量子计算"]
 tags: ["量子计算", "投资", "股票", "ETF", "IonQ", "IBM"]
-author: "量子观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "量子计算是2026年最值得关注的科技投资赛道之一。本文分析量子计算的投资逻辑、主要标的和风险。"
 ---
 

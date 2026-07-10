@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["ARVR"]
 tags: ["XR内容", "空间视频", "沉浸式内容", "Apple Immersive Video", "VR影视", "3D创作"]
-author: "XR观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "硬件普及之后，内容生态是XR能否成为主流平台的关键。2026年，空间视频、沉浸式影视、3D社交内容正在快速发展，Apple、Meta、TikTok和YouTube都在押注XR内容生态。创作者经济正在从2D走向3D。"
 ---
 

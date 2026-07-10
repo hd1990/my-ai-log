@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["低空经济"]
 tags: ["低空经济", "低空旅游", "eVTOL", "直升机", "文旅"]
-author: "低空观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "低空旅游是低空经济最先变现的场景。2026年市场规模预计突破800亿，eVTOL体验飞行成为文旅新宠，但安全管理和标准化仍是最大挑战。"
 ---
 

@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["养老"]
 tags: ["养老科技", "AI陪伴", "远程照护", "智慧养老", "机器人", "AgeTech"]
-author: "养老观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年养老科技（AgeTech）市场快速增长，AI陪伴机器人、远程照护系统和智能监测设备进入实用阶段。本文分析养老科技的产品创新、应用场景和未来趋势。"
 ---
 

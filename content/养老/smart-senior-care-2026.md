@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["养老"]
 tags: ["智慧养老", "AI养老", "IoT", "智能家居", "养老科技", "机器人"]
-author: "养老观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，AI大模型、IoT传感器和机器人技术正在深刻改变养老服务。从智能监测到AI陪伴，从远程医疗到康复机器人，本文盘点智慧养老的最新实践与挑战。"
 ---
 

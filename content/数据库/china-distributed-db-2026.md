@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["TiDB", "OceanBase", "分布式数据库", "PingCAP", "蚂蚁集团", "NewSQL", "出海", "全球化"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年中国分布式数据库正在全球市场取得突破。TiDB和OceanBase作为中国数据库出海的代表，在海外市场获得了大量客户。本文从技术、市场、生态三个维度分析中国分布式数据库的全球化之路。"
 ---
 

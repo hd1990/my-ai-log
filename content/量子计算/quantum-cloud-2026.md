@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["量子计算"]
 tags: ["量子计算", "量子云", "AWS", "Azure", "量子计算即服务", "QCaaS"]
-author: "量子观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "量子计算即服务(QCaaS)是量子计算商业化的前沿。2026年AWS、Azure、Google Cloud三巨头争夺量子云市场，中国量子云服务崛起，量子-经典混合计算成为标配。"
 ---
 

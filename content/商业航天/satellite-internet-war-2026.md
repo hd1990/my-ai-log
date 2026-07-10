@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["商业航天"]
 tags: ["卫星互联网", "Starlink", "中国星网", "低轨卫星", "通信"]
-author: "航天观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Starlink用户突破800万，中国星网进入规模化部署。低轨卫星互联网的竞争，不仅是商业竞争，更是国家战略竞争。"
 ---
 

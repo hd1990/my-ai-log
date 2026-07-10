@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["编程语言"]
 tags: ["Mojo", "Python", "GPU", "AI", "机器学习", "Chris Lattner", "高性能计算", "编程语言"]
-author: "语言极客"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "Mojo语言由Swift之父Chris Lattner创建，目标是解决Python在AI时代最大的痛点——性能。2026年Mojo 1.0已发布，本文深度评测Mojo的性能、Python兼容性、GPU加速能力及其对AI开发生态的影响。"
 ---
 

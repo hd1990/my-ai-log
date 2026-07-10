@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["向量数据库", "AI数据库", "Pinecone", "Milvus", "PostgreSQL", "pgvector", "RAG", "LLM"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年数据库领域正在经历一场AI驱动的范式转变。向量数据库从专用工具走向主流，AI原生数据库重新定义了数据存储和查询的方式。本文深度分析向量数据库的市场格局、技术演进和AI原生数据库的未来。"
 ---
 

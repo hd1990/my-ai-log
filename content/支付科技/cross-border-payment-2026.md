@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["支付科技"]
 tags: ["跨境支付", "SWIFT", "区块链", "数字货币", "清算网络", "ISO 20022"]
-author: "支付观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球跨境支付正在经历SWIFT系统建立50年来最大的变革。mBridge多边央行数字货币桥、BIS的Agora项目、Ripple和Stellar的区块链网络，正在构建下一代跨境清算网络。"
 ---
 

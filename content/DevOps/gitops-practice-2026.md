@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["DevOps"]
 tags: ["GitOps", "ArgoCD", "Flux", "Kubernetes", "K8s", "持续部署", "云原生", "DevOps"]
-author: "DevOps工程师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年GitOps成为Kubernetes持续部署的事实标准。本文从ArgoCD和Flux两大主流工具的实战出发，涵盖GitOps的核心原则、架构设计、多集群管理、安全实践和2026年最新发展趋势。"
 slug: "gitops-practice-2026"
 ---

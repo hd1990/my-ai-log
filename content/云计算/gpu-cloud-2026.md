@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["GPU云", "AI算力", "NVIDIA", "GPU租赁", "算力市场", "H100", "B200", "AI训练", "算力调度"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年全球GPU云服务市场突破500亿美元，NVIDIA H200/B200一卡难求。从AWS到CoreWeave，从算力租赁到GPU云原生，深度解析AI算力市场的供需格局、价格走势、技术演进和新兴玩家。"
 slug: "gpu-cloud-2026"
 ---

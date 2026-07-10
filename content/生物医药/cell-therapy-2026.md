@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["生物医药"]
 tags: ["细胞治疗", "CAR-T", "TIL", "TCR-T", "NK细胞", "实体瘤", "免疫治疗", "生物医药"]
-author: "生物医药研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，CAR-T细胞治疗在血液肿瘤中持续突破，但'风险'和'成本'仍是两大瓶颈。TIL疗法在实体瘤中获得FDA批准，通用型CAR-T和多靶点CAR-T进入临床。本文全景解析细胞治疗的2026年技术进展、商业挑战和未来方向。"
 ---
 

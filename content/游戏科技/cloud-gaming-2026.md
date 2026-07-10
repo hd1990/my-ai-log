@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["游戏科技"]
 tags: ["云游戏", "5G", "边缘计算", "NVIDIA GeForce NOW", "Xbox Cloud Gaming", "PS Now", "游戏串流", "网络延迟"]
-author: "游戏技术观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年云游戏终于迎来了真正的爆发。5G网络的普及、边缘计算的部署和编码技术的突破，使云游戏体验已经接近本地游戏。本文分析全球云游戏市场格局、技术突破和商业模式演进。"
 ---
 

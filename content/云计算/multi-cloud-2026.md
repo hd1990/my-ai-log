@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["云计算"]
 tags: ["多云", "Multi-Cloud", "供应商锁定", "云架构", "AWS", "Azure", "GCP", "Kubernetes", "Terraform"]
-author: "云架构师"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年超过85%的大型企业采用多云战略，供应商锁定成为CIO最关注的风险之一。从技术架构到商业策略，从Kubernetes到Terraform，深度解析企业如何构建真正可移植的多云架构。"
 slug: "multi-cloud-2026"
 ---

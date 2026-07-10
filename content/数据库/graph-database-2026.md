@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["数据库"]
 tags: ["图数据库", "Neo4j", "NebulaGraph", "知识图谱", "GraphRAG", "图计算", "GQL"]
-author: "DBA"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年图数据库在知识图谱、GraphRAG和反欺诈领域迎来了爆发式增长。Neo4j 6.0和NebulaGraph 4.0的发布、GQL国际标准的落地和GraphRAG的兴起，正在推动图数据库走向主流。本文深度分析图数据库的技术演进和应用格局。"
 ---
 

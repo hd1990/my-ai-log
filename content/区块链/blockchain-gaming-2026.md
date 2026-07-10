@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["区块链"]
 tags: ["区块链游戏", "Web3游戏", "GameFi", "NFT", "Axie Infinity", "游戏化金融", "元宇宙"]
-author: "链上观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年Web3游戏行业从第一波GameFi泡沫中走出，迎来了以游戏性为核心的第二波浪潮。从AAA链游到休闲游戏，从Ronin到Immutable，深度解析区块链游戏的进化、生态和趋势。"
 slug: "blockchain-gaming-2026"
 ---

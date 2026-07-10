@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["生物科技"]
 tags: ["长寿科技", "抗衰老", "AI", "生物科技", "健康"]
-author: "生物观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "AI正在加速抗衰老研究。从药物发现到衰老时钟，长寿科技在2026年取得了多个突破性进展。"
 ---
 

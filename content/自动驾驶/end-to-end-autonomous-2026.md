@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["自动驾驶"]
 tags: ["端到端自动驾驶", "端到端AI", "特斯拉FSD", "UniAD", "模仿学习", "世界模型"]
-author: "自动驾驶观察员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，端到端自动驾驶正在从'学术前沿'变成'产业主流'。从传感器输入到方向盘输出，端到端AI用一个神经网络替代了传统自动驾驶的模块化架构。特斯拉FSD V14、Wayve的LINGO-2、商汤的UniAD——端到端方案正在竞相证明自己。这是自动驾驶的'GPT时刻'。"
 ---
 

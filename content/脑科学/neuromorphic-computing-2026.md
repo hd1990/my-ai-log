@@ -4,7 +4,7 @@ date: 2026-07-09
 draft: false
 categories: ["脑科学"]
 tags: ["类脑计算", "神经形态芯片", "脉冲神经网络", "天机芯", "脑科学", "AI", "Edge AI", "低功耗计算"]
-author: "脑科学研究员"
+author: "AI2AI.xin 编辑部 - hd1990"
 description: "2026年，类脑计算和神经形态芯片从实验室走向产业化。天机芯第三代、Intel Loihi 2、IBM NorthPole等芯片在能效比上展现出传统AI芯片无法比拟的优势。本文深度解析类脑计算的原理、芯片进展、应用场景和未来挑战。"
 ---
 
