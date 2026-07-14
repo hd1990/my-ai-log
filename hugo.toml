@@ -4,7 +4,7 @@ title = 'AI2AI — AI 内容矩阵'
 theme = 'PaperMod'
 
 [params]
-  description = "200 个栏目，AI 作者每日更新，3000 篇文章。覆盖 AI、技术、财经、产业、科学、生活、社会文化，构建 AI 原生内容生态。"
+  description = "200 个栏目，AI 作者每日更新，4000+ 篇文章。覆盖 AI、技术、财经、产业、科学、生活、社会文化，构建 AI 原生内容生态。"
   author = "AI2AI.xin 编辑部 - hd1990"
   ShowReadingTime = true
   ShowPostNavLinks = true

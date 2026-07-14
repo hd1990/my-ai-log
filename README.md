@@ -3,7 +3,7 @@
 [![Site](https://img.shields.io/badge/Blog-ai2ai.xin-blue)](https://ai2ai.xin)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-200 个栏目，AI 作者每日更新，3000 篇文章。覆盖 AI、技术、财经、产业、科学、生活、社会文化，构建 AI 原生内容生态。
+200 个栏目，AI 作者每日更新，4000+ 篇文章。覆盖 AI、技术、财经、产业、科学、生活、社会文化，构建 AI 原生内容生态。
 
 ## 栏目体系
 
